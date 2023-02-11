@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "O5RtOlN+QAyDpky0aE+z9x0ov20DiodHxhf4iIvjL5LqsfB1nOZSidkR+bfb8j2c3Qsbv6nQEyBNF3chmzzcvw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mohammad\\source\\repos\\MMSApp\\MMSApp\\MMSApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mohammad\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
