@@ -29,3 +29,10 @@ C:\Users\Mohammad\source\repos\MMSApp\MMSApp\obj\Debug\net7.0\refint\MMSApp.dll
 C:\Users\Mohammad\source\repos\MMSApp\MMSApp\obj\Debug\net7.0\MMSApp.pdb
 C:\Users\Mohammad\source\repos\MMSApp\MMSApp\obj\Debug\net7.0\MMSApp.genruntimeconfig.cache
 C:\Users\Mohammad\source\repos\MMSApp\MMSApp\obj\Debug\net7.0\ref\MMSApp.dll
+C:\Users\Mohammad\source\repos\MMSApp\MMSApp\bin\Debug\net7.0\.filenesting.json
+C:\Users\Mohammad\source\repos\MMSApp\MMSApp\bin\Debug\net7.0\TestHttpClient.dll
+C:\Users\Mohammad\source\repos\MMSApp\MMSApp\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Mohammad\source\repos\MMSApp\MMSApp\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+C:\Users\Mohammad\source\repos\MMSApp\MMSApp\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\Mohammad\source\repos\MMSApp\MMSApp\bin\Debug\net7.0\TestHttpClient.pdb
+C:\Users\Mohammad\source\repos\MMSApp\MMSApp\obj\Debug\net7.0\MMSApp.csproj.CopyComplete
