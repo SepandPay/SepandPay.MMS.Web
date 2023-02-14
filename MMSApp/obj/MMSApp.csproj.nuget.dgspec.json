@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mohammad\\source\\repos\\MMSApp\\MMSApp\\MMSApp.csproj": {}
+    "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay.MMS.Web\\MMSApp\\MMSApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mohammad\\source\\repos\\MMSApp\\MMSApp\\MMSApp.csproj": {
+    "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay.MMS.Web\\MMSApp\\MMSApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mohammad\\source\\repos\\MMSApp\\MMSApp\\MMSApp.csproj",
+        "projectUniqueName": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay.MMS.Web\\MMSApp\\MMSApp.csproj",
         "projectName": "MMSApp",
-        "projectPath": "C:\\Users\\Mohammad\\source\\repos\\MMSApp\\MMSApp\\MMSApp.csproj",
+        "projectPath": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay.MMS.Web\\MMSApp\\MMSApp.csproj",
         "packagesPath": "C:\\Users\\Mohammad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mohammad\\source\\repos\\MMSApp\\MMSApp\\obj\\",
+        "outputPath": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay.MMS.Web\\MMSApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "C:\\Users\\Mohammad\\Downloads": {},
           "https://api.nuget.org/v3/index.json": {}
         },

@@ -142,6 +142,38 @@
                 },
                 "Asset": null,
                 "Patterns": null
+              },
+              "fontawesome-webfont.eot": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "iconfonts/font-awesome/fontawesome-webfont.eot"
+                },
+                "Patterns": null
+              },
+              "fontawesome-webfont.svg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "iconfonts/font-awesome/fontawesome-webfont.svg"
+                },
+                "Patterns": null
+              },
+              "fontawesome-webfont.ttf": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "iconfonts/font-awesome/fontawesome-webfont.ttf"
+                },
+                "Patterns": null
+              },
+              "fontawesome-webfont.woff2": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "iconfonts/font-awesome/fontawesome-webfont.woff2"
+                },
+                "Patterns": null
               }
             },
             "Asset": null,
