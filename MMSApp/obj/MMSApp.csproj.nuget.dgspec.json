@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay.MMS.Web\\MMSApp\\MMSApp.csproj": {}
+    "C:\\Users\\Mohammad\\source\\repos\\SepandPay.MMS.Web\\MMSApp\\MMSApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay.MMS.Web\\MMSApp\\MMSApp.csproj": {
+    "C:\\Users\\Mohammad\\source\\repos\\SepandPay.MMS.Web\\MMSApp\\MMSApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay.MMS.Web\\MMSApp\\MMSApp.csproj",
+        "projectUniqueName": "C:\\Users\\Mohammad\\source\\repos\\SepandPay.MMS.Web\\MMSApp\\MMSApp.csproj",
         "projectName": "MMSApp",
-        "projectPath": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay.MMS.Web\\MMSApp\\MMSApp.csproj",
+        "projectPath": "C:\\Users\\Mohammad\\source\\repos\\SepandPay.MMS.Web\\MMSApp\\MMSApp.csproj",
         "packagesPath": "C:\\Users\\Mohammad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay.MMS.Web\\MMSApp\\obj\\",
+        "outputPath": "C:\\Users\\Mohammad\\source\\repos\\SepandPay.MMS.Web\\MMSApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -48,6 +48,10 @@
             "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
               "target": "Package",
               "version": "[1.17.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[7.0.3, )"
             }
           },
           "imports": [

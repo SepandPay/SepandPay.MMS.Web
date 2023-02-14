@@ -1,7 +1,7 @@
 ﻿<!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="utf-8" />
+
     <meta charset='UTF-8'>
     <meta name='keywords' content='your, tags'>
     <meta name='description' content='150 words'>
@@ -836,7 +836,11 @@
             <!-- /Mobile Header -->
             <!--app-content open-->
             <div class="app-content">
-                @RenderBody()
+                <div class="side-app">
+                    <div class="mt-9">
+                        @RenderBody()
+                    </div>
+                </div>
             </div>
             <!-- CONTAINER END -->
         </div>

@@ -1,0 +1,165 @@
+﻿@model MMSApp.Models.Entity.Psp
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Psp</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Id" class="control-label"></label>
+                <input asp-for="Id" class="form-control" />
+                <span asp-validation-for="Id" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="UserShaparak" class="control-label"></label>
+                <input asp-for="UserShaparak" class="form-control" />
+                <span asp-validation-for="UserShaparak" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PasswordShaparak" class="control-label"></label>
+                <input asp-for="PasswordShaparak" class="form-control" />
+                <span asp-validation-for="PasswordShaparak" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PspMmsUsername" class="control-label"></label>
+                <input asp-for="PspMmsUsername" class="form-control" />
+                <span asp-validation-for="PspMmsUsername" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PspMmsPassword" class="control-label"></label>
+                <input asp-for="PspMmsPassword" class="form-control" />
+                <span asp-validation-for="PspMmsPassword" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PspMmsPublicKey" class="control-label"></label>
+                <input asp-for="PspMmsPublicKey" class="form-control" />
+                <span asp-validation-for="PspMmsPublicKey" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PspMmsPrivateKey" class="control-label"></label>
+                <input asp-for="PspMmsPrivateKey" class="form-control" />
+                <span asp-validation-for="PspMmsPrivateKey" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ShaparakFtpPublicKey" class="control-label"></label>
+                <input asp-for="ShaparakFtpPublicKey" class="form-control" />
+                <span asp-validation-for="ShaparakFtpPublicKey" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ShaparakFtpPrivateKey" class="control-label"></label>
+                <input asp-for="ShaparakFtpPrivateKey" class="form-control" />
+                <span asp-validation-for="ShaparakFtpPrivateKey" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Alias" class="control-label"></label>
+                <input asp-for="Alias" class="form-control" />
+                <span asp-validation-for="Alias" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ShaparakFtpUsername" class="control-label"></label>
+                <input asp-for="ShaparakFtpUsername" class="form-control" />
+                <span asp-validation-for="ShaparakFtpUsername" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ShaparakFtpPassword" class="control-label"></label>
+                <input asp-for="ShaparakFtpPassword" class="form-control" />
+                <span asp-validation-for="ShaparakFtpPassword" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="IIN" class="control-label"></label>
+                <input asp-for="IIN" class="form-control" />
+                <span asp-validation-for="IIN" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TerminalNo" class="control-label"></label>
+                <input asp-for="TerminalNo" class="form-control" />
+                <span asp-validation-for="TerminalNo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="AcceptorCode" class="control-label"></label>
+                <input asp-for="AcceptorCode" class="form-control" />
+                <span asp-validation-for="AcceptorCode" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="StepsCount" class="control-label"></label>
+                <input asp-for="StepsCount" class="form-control" />
+                <span asp-validation-for="StepsCount" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Enabled" class="control-label"></label>
+                <input asp-for="Enabled" class="form-control" />
+                <span asp-validation-for="Enabled" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="IsDeleted" /> @Html.DisplayNameFor(model => model.IsDeleted)
+                </label>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="IsActive" /> @Html.DisplayNameFor(model => model.IsActive)
+                </label>
+            </div>
+            <div class="form-group">
+                <label asp-for="CreatorUserId" class="control-label"></label>
+                <input asp-for="CreatorUserId" class="form-control" />
+                <span asp-validation-for="CreatorUserId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CreateDate" class="control-label"></label>
+                <input asp-for="CreateDate" class="form-control" />
+                <span asp-validation-for="CreateDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="UpdaterUserId" class="control-label"></label>
+                <input asp-for="UpdaterUserId" class="form-control" />
+                <span asp-validation-for="UpdaterUserId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="UpdateTime" class="control-label"></label>
+                <input asp-for="UpdateTime" class="form-control" />
+                <span asp-validation-for="UpdateTime" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CutOffTime" class="control-label"></label>
+                <input asp-for="CutOffTime" class="form-control" />
+                <span asp-validation-for="CutOffTime" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="SettlementIban" class="control-label"></label>
+                <input asp-for="SettlementIban" class="form-control" />
+                <span asp-validation-for="SettlementIban" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="WageIban" class="control-label"></label>
+                <input asp-for="WageIban" class="form-control" />
+                <span asp-validation-for="WageIban" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TlsHostCertificateFingerprint" class="control-label"></label>
+                <input asp-for="TlsHostCertificateFingerprint" class="form-control" />
+                <span asp-validation-for="TlsHostCertificateFingerprint" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+

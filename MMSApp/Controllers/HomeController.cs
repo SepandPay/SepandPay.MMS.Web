@@ -1,6 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using MMSApp.Models;
 using System.Diagnostics;
+using MMSApp.Models.DTO;
+using MMSApp.Models.Entity;
 
 namespace MMSApp.Controllers
 {
@@ -15,6 +17,14 @@ namespace MMSApp.Controllers
 
         public IActionResult Index()
         {
+            PSPDto dt1 = new PSPDto();
+            Psp p1 = new();
+            List<Psp> lst = new();
+
+
+            dt1 = p1;
+
+            p1 = dt1;
             return View();
         }
 
