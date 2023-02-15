@@ -801,6 +801,10 @@
       "PackagePath": "staticwebassets\\js\\widget.js"
     },
     {
+      "Id": "C:\\Users\\Mohammad\\source\\repos\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\manifest.json",
+      "PackagePath": "staticwebassets\\manifest.json"
+    },
+    {
       "Id": "C:\\Users\\Mohammad\\source\\repos\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\accordion-Wizard-Form\\jquery.accordion-wizard.min.js",
       "PackagePath": "staticwebassets\\plugins\\accordion-Wizard-Form\\jquery.accordion-wizard.min.js"
     },

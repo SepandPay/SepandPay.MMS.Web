@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "1cyAOqVwiU2ml1sO1RJJ+A9XWHNmSyNOVicY5ukVU60=",
+  "Hash": "QWAjAHHOZQKTIBjBXOnOKk0O4GMb+MNkCfdo101Hzw8=",
   "Source": "MMSApp",
   "BasePath": "_content/MMSApp",
   "Mode": "Default",
@@ -3432,6 +3432,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\widget.js"
+    },
+    {
+      "Identity": "C:\\Users\\Mohammad\\source\\repos\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\manifest.json",
+      "SourceId": "MMSApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohammad\\source\\repos\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\",
+      "BasePath": "_content/MMSApp",
+      "RelativePath": "manifest.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\manifest.json"
     },
     {
       "Identity": "C:\\Users\\Mohammad\\source\\repos\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\accordion\\accordion.css",
