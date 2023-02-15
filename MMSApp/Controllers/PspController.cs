@@ -15,9 +15,6 @@ namespace MMSApp.Controllers
         // GET: PspController
         public ActionResult Index()
         {
-
-
-
             return View(lst);
         }
 
@@ -53,7 +50,8 @@ namespace MMSApp.Controllers
         // GET: PspController/Edit/5
         public ActionResult Edit(int id)
         {
-            return View();
+            Psp mypsp = lst.FirstOrDefault(p => p.Id == id);
+            return View(mypsp);
         }
 
         // POST: PspController/Edit/5
@@ -74,7 +72,8 @@ namespace MMSApp.Controllers
         // GET: PspController/Delete/5
         public ActionResult Delete(int id)
         {
-            return View();
+            Psp mypsp = lst.FirstOrDefault(p => p.Id == id);
+            return View(mypsp);
         }
 
         // POST: PspController/Delete/5

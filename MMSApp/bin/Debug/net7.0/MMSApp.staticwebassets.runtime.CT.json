@@ -73,6 +73,186 @@
         },
         "Patterns": null
       },
+      "fonts": {
+        "Children": {
+          "iransans": {
+            "Children": {
+              "iransans(FaNum)_Medium.eot": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "fonts/iransans/iransans(FaNum)_Medium.eot"
+                },
+                "Patterns": null
+              },
+              "iransansWeb(FaNum).eot": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "fonts/iransans/iransansWeb(FaNum).eot"
+                },
+                "Patterns": null
+              },
+              "iransansWeb(FaNum).ttf": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "fonts/iransans/iransansWeb(FaNum).ttf"
+                },
+                "Patterns": null
+              },
+              "iransansWeb(FaNum).woff": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "fonts/iransans/iransansWeb(FaNum).woff"
+                },
+                "Patterns": null
+              },
+              "iransansWeb(FaNum).woff2": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "fonts/iransans/iransansWeb(FaNum).woff2"
+                },
+                "Patterns": null
+              },
+              "iransansWeb(FaNum)_Bold.eot": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "fonts/iransans/iransansWeb(FaNum)_Bold.eot"
+                },
+                "Patterns": null
+              },
+              "iransansWeb(FaNum)_Bold.ttf": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "fonts/iransans/iransansWeb(FaNum)_Bold.ttf"
+                },
+                "Patterns": null
+              },
+              "iransansWeb(FaNum)_Bold.woff": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "fonts/iransans/iransansWeb(FaNum)_Bold.woff"
+                },
+                "Patterns": null
+              },
+              "iransansWeb(FaNum)_Bold.woff2": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "fonts/iransans/iransansWeb(FaNum)_Bold.woff2"
+                },
+                "Patterns": null
+              },
+              "iransansWeb(FaNum)_Light.eot": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "fonts/iransans/iransansWeb(FaNum)_Light.eot"
+                },
+                "Patterns": null
+              },
+              "iransansWeb(FaNum)_Light.ttf": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "fonts/iransans/iransansWeb(FaNum)_Light.ttf"
+                },
+                "Patterns": null
+              },
+              "iransansWeb(FaNum)_Light.woff": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "fonts/iransans/iransansWeb(FaNum)_Light.woff"
+                },
+                "Patterns": null
+              },
+              "iransansWeb(FaNum)_Light.woff2": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "fonts/iransans/iransansWeb(FaNum)_Light.woff2"
+                },
+                "Patterns": null
+              },
+              "iransansWeb(FaNum)_Medium.eot": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "fonts/iransans/iransansWeb(FaNum)_Medium.eot"
+                },
+                "Patterns": null
+              },
+              "iransansWeb(FaNum)_Medium.ttf": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "fonts/iransans/iransansWeb(FaNum)_Medium.ttf"
+                },
+                "Patterns": null
+              },
+              "iransansWeb(FaNum)_Medium.woff": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "fonts/iransans/iransansWeb(FaNum)_Medium.woff"
+                },
+                "Patterns": null
+              },
+              "iransansWeb(FaNum)_Medium.woff2": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "fonts/iransans/iransansWeb(FaNum)_Medium.woff2"
+                },
+                "Patterns": null
+              },
+              "iransansWeb(FaNum)_UltraLight.eot": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "fonts/iransans/iransansWeb(FaNum)_UltraLight.eot"
+                },
+                "Patterns": null
+              },
+              "iransansWeb(FaNum)_UltraLight.ttf": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "fonts/iransans/iransansWeb(FaNum)_UltraLight.ttf"
+                },
+                "Patterns": null
+              },
+              "iransansWeb(FaNum)_UltraLight.woff": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "fonts/iransans/iransansWeb(FaNum)_UltraLight.woff"
+                },
+                "Patterns": null
+              },
+              "iransansWeb(FaNum)_UltraLight.woff2": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "fonts/iransans/iransansWeb(FaNum)_UltraLight.woff2"
+                },
+                "Patterns": null
+              }
+            },
+            "Asset": null,
+            "Patterns": null
+          }
+        },
+        "Asset": null,
+        "Patterns": null
+      },
       "iconfonts": {
         "Children": {
           "feather": {
@@ -129,6 +309,14 @@
           },
           "font-awesome": {
             "Children": {
+              "all.min.css": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "iconfonts/font-awesome/all.min.css"
+                },
+                "Patterns": null
+              },
               "css": {
                 "Children": {
                   "font-awesome.min.css": {
@@ -1617,6 +1805,14 @@
           }
         },
         "Asset": null,
+        "Patterns": null
+      },
+      "manifest.json": {
+        "Children": null,
+        "Asset": {
+          "ContentRootIndex": 0,
+          "SubPath": "manifest.json"
+        },
         "Patterns": null
       },
       "plugins": {
@@ -3179,6 +3375,20 @@
               }
             },
             "Asset": null,
+            "Patterns": null
+          }
+        },
+        "Asset": null,
+        "Patterns": null
+      },
+      "styles": {
+        "Children": {
+          "custom.css": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 0,
+              "SubPath": "styles/custom.css"
+            },
             "Patterns": null
           }
         },
