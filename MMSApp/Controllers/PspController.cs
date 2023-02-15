@@ -6,10 +6,10 @@ namespace MMSApp.Controllers
 {
     public class PspController : Controller
     {
-        List<Psp> lst = new();
+        readonly List<Psp> lst = new();
         public PspController()
         {
-            Psp p1 = new Psp { Id = 1, Name = "psp1", Alias = "psp1" };
+            Psp p1 = new() { Id = 1, Name = "psp1", Alias = "psp1" };
             lst.Add(p1);
         }
         // GET: PspController
@@ -24,7 +24,7 @@ namespace MMSApp.Controllers
         // GET: PspController/Details/5
         public ActionResult Details(int id)
         {
-            Psp mypsp = lst.Where(p => p.Id == id).FirstOrDefault();
+            Psp mypsp = lst.FirstOrDefault(p => p.Id == id);
             return View(mypsp);
         }
 

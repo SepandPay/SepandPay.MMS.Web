@@ -28,8 +28,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHNwXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Mohammad/source/repos/SepandPay.MMS.Web/MMSApp/Views/Psp/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHNwXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Mohammad/source/repos/SepandPay.MMS.Web/MMSApp/Views/Psp/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHNwXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohammad/source/repos/SepandPay.MMS.Web/MMSApp/Views/Psp/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHNwXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Mohammad/source/repos/SepandPay.MMS.Web/MMSApp/Views/Psp/Index.cshtml]

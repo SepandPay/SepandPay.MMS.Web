@@ -33,6 +33,90 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Mohammad\\source\\repos\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\fonts\\iransans\\iransans(FaNum)_Medium.eot",
+      "PackagePath": "staticwebassets\\fonts\\iransans\\iransans(FaNum)_Medium.eot"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\source\\repos\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\fonts\\iransans\\iransansWeb(FaNum).eot",
+      "PackagePath": "staticwebassets\\fonts\\iransans\\iransansWeb(FaNum).eot"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\source\\repos\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\fonts\\iransans\\iransansWeb(FaNum).ttf",
+      "PackagePath": "staticwebassets\\fonts\\iransans\\iransansWeb(FaNum).ttf"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\source\\repos\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\fonts\\iransans\\iransansWeb(FaNum).woff",
+      "PackagePath": "staticwebassets\\fonts\\iransans\\iransansWeb(FaNum).woff"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\source\\repos\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\fonts\\iransans\\iransansWeb(FaNum).woff2",
+      "PackagePath": "staticwebassets\\fonts\\iransans\\iransansWeb(FaNum).woff2"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\source\\repos\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\fonts\\iransans\\iransansWeb(FaNum)_Bold.eot",
+      "PackagePath": "staticwebassets\\fonts\\iransans\\iransansWeb(FaNum)_Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\source\\repos\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\fonts\\iransans\\iransansWeb(FaNum)_Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\iransans\\iransansWeb(FaNum)_Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\source\\repos\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\fonts\\iransans\\iransansWeb(FaNum)_Bold.woff",
+      "PackagePath": "staticwebassets\\fonts\\iransans\\iransansWeb(FaNum)_Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\source\\repos\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\fonts\\iransans\\iransansWeb(FaNum)_Bold.woff2",
+      "PackagePath": "staticwebassets\\fonts\\iransans\\iransansWeb(FaNum)_Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\source\\repos\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\fonts\\iransans\\iransansWeb(FaNum)_Light.eot",
+      "PackagePath": "staticwebassets\\fonts\\iransans\\iransansWeb(FaNum)_Light.eot"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\source\\repos\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\fonts\\iransans\\iransansWeb(FaNum)_Light.ttf",
+      "PackagePath": "staticwebassets\\fonts\\iransans\\iransansWeb(FaNum)_Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\source\\repos\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\fonts\\iransans\\iransansWeb(FaNum)_Light.woff",
+      "PackagePath": "staticwebassets\\fonts\\iransans\\iransansWeb(FaNum)_Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\source\\repos\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\fonts\\iransans\\iransansWeb(FaNum)_Light.woff2",
+      "PackagePath": "staticwebassets\\fonts\\iransans\\iransansWeb(FaNum)_Light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\source\\repos\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\fonts\\iransans\\iransansWeb(FaNum)_Medium.eot",
+      "PackagePath": "staticwebassets\\fonts\\iransans\\iransansWeb(FaNum)_Medium.eot"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\source\\repos\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\fonts\\iransans\\iransansWeb(FaNum)_Medium.ttf",
+      "PackagePath": "staticwebassets\\fonts\\iransans\\iransansWeb(FaNum)_Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\source\\repos\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\fonts\\iransans\\iransansWeb(FaNum)_Medium.woff",
+      "PackagePath": "staticwebassets\\fonts\\iransans\\iransansWeb(FaNum)_Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\source\\repos\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\fonts\\iransans\\iransansWeb(FaNum)_Medium.woff2",
+      "PackagePath": "staticwebassets\\fonts\\iransans\\iransansWeb(FaNum)_Medium.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\source\\repos\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\fonts\\iransans\\iransansWeb(FaNum)_UltraLight.eot",
+      "PackagePath": "staticwebassets\\fonts\\iransans\\iransansWeb(FaNum)_UltraLight.eot"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\source\\repos\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\fonts\\iransans\\iransansWeb(FaNum)_UltraLight.ttf",
+      "PackagePath": "staticwebassets\\fonts\\iransans\\iransansWeb(FaNum)_UltraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\source\\repos\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\fonts\\iransans\\iransansWeb(FaNum)_UltraLight.woff",
+      "PackagePath": "staticwebassets\\fonts\\iransans\\iransansWeb(FaNum)_UltraLight.woff"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\source\\repos\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\fonts\\iransans\\iransansWeb(FaNum)_UltraLight.woff2",
+      "PackagePath": "staticwebassets\\fonts\\iransans\\iransansWeb(FaNum)_UltraLight.woff2"
+    },
+    {
       "Id": "C:\\Users\\Mohammad\\source\\repos\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\feather\\feather.css",
       "PackagePath": "staticwebassets\\iconfonts\\feather\\feather.css"
     },
@@ -51,6 +135,10 @@
     {
       "Id": "C:\\Users\\Mohammad\\source\\repos\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\feather\\fonts\\feather-webfont6cfa.woff",
       "PackagePath": "staticwebassets\\iconfonts\\feather\\fonts\\feather-webfont6cfa.woff"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\source\\repos\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\font-awesome\\all.min.css",
+      "PackagePath": "staticwebassets\\iconfonts\\font-awesome\\all.min.css"
     },
     {
       "Id": "C:\\Users\\Mohammad\\source\\repos\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\font-awesome\\css\\font-awesome.min.css",
@@ -1311,6 +1399,10 @@
     {
       "Id": "C:\\Users\\Mohammad\\source\\repos\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\wysiwyag\\wysiwyag.js",
       "PackagePath": "staticwebassets\\plugins\\wysiwyag\\wysiwyag.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\source\\repos\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\styles\\custom.css",
+      "PackagePath": "staticwebassets\\styles\\custom.css"
     },
     {
       "Id": "C:\\Users\\Mohammad\\source\\repos\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\switcher\\css\\demo.css",
