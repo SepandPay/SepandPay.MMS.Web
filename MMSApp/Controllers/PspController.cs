@@ -9,7 +9,7 @@ namespace MMSApp.Controllers
         readonly List<Psp> lst = new();
         public PspController()
         {
-            Psp p1 = new() { Id = 1, Name = "psp1", Alias = "alias psp1", IsDeleted = true, IsActive = false, AcceptorCode = "123456", Enabled = true };
+            Psp p1 = new() { Id = 1, Name = "سپند", Alias = "alias psp1", IsDeleted = true, IsActive = false, AcceptorCode = "123456", Enabled = true };
             lst.Add(p1);
         }
         // GET: PspController
