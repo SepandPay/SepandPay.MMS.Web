@@ -30,44 +30,28 @@ namespace MMSModel.Entity
         public string ShaparakFtpUsername { get; set; }
         [DisplayName("کلمه عبور Ftp شاپرک")]
         public string ShaparakFtpPassword { get; set; }
-
         public string IIN { get; set; }
         [DisplayName("شماره ترمینال")]
         public string TerminalNo { get; set; }
-        [DisplayName("کد تایید")]
-
+        [DisplayName("شماره پذیرنده")]
         public string AcceptorCode { get; set; }
         public Nullable<byte> StepsCount { get; set; }
         public Nullable<bool> Enabled { get; set; }
         [DisplayName("حذف شده")]
-
         public bool IsDeleted { get; set; }
         [DisplayName("فعال شده")]
-
         public bool IsActive { get; set; }
         [DisplayName("ایجاد شده توسط")]
-
         public long CreatorUserId { get; set; }
         [DisplayName("تاریخ ایجاد")]
-
         public System.DateTime CreateDate { get; set; }
         [DisplayName("آخرین آپدیت")]
-
         public Nullable<long> UpdaterUserId { get; set; }
         [DisplayName("آپدیت تایم")]
-
         public Nullable<System.DateTime> UpdateTime { get; set; }
-        [DisplayName("کات آف تایم")]
-
         public Nullable<System.TimeSpan> CutOffTime { get; set; }
-
-
         public string SettlementIban { get; set; }
-
-
         public string WageIban { get; set; }
-
-
         public string TlsHostCertificateFingerprint { get; set; }
     }
 }
