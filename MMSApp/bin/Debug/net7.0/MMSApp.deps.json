@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v7.0": {
       "MMSApp/1.0.0": {
         "dependencies": {
+          "MMSModel": "1.0.0",
           "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.17.0",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "7.0.3",
           "WebEssentials.AspNetCore.PWA": "1.0.65",
@@ -2385,6 +2386,11 @@
           }
         }
       },
+      "MMSModel/1.0.0": {
+        "runtime": {
+          "MMSModel.dll": {}
+        }
+      },
       "TestHttpClient/1.0.0.0": {
         "runtime": {
           "TestHttpClient.dll": {
@@ -3899,6 +3905,11 @@
       "sha512": "sha512-3UOHOeU05+B5nyMfO3dAWBXUU45GmnIxqBbiUi3DAr8ogzujX2otjN4Jugu9l1jBr42B7i8DkTNUWruso5G3LQ==",
       "path": "webessentials.aspnetcore.pwa/1.0.65",
       "hashPath": "webessentials.aspnetcore.pwa.1.0.65.nupkg.sha512"
+    },
+    "MMSModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "TestHttpClient/1.0.0.0": {
       "type": "reference",

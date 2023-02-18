@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32804.467
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MMSApp", "MMSApp\MMSApp.csproj", "{705E7FA3-96B9-44D3-BA49-A3C0CE9D013A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MMSApp", "MMSApp\MMSApp.csproj", "{705E7FA3-96B9-44D3-BA49-A3C0CE9D013A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MMSModel", "MMSModel\MMSModel.csproj", "{04A29E0D-DEAA-42FA-9844-93939A195662}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{705E7FA3-96B9-44D3-BA49-A3C0CE9D013A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{705E7FA3-96B9-44D3-BA49-A3C0CE9D013A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{705E7FA3-96B9-44D3-BA49-A3C0CE9D013A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04A29E0D-DEAA-42FA-9844-93939A195662}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04A29E0D-DEAA-42FA-9844-93939A195662}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04A29E0D-DEAA-42FA-9844-93939A195662}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04A29E0D-DEAA-42FA-9844-93939A195662}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

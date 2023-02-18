@@ -1,8 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using MMSApp.Models;
 using System.Diagnostics;
-using MMSApp.Models.DTO;
-using MMSApp.Models.Entity;
+using MMSModel.DTO; 
+using MMSModel.Entity;
 
 namespace MMSApp.Controllers
 {

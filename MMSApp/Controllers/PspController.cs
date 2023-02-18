@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using MMSApp.Models.Entity;
+using MMSModel.Entity;
 
 namespace MMSApp.Controllers
 {

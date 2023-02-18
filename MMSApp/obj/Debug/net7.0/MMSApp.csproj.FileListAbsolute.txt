@@ -295,3 +295,5 @@ C:\Users\Mohammad\source\repos\SepandPay.MMS.Web\MMSApp\bin\Debug\net7.0\NWebsec
 C:\Users\Mohammad\source\repos\SepandPay.MMS.Web\MMSApp\bin\Debug\net7.0\NWebsec.AspNetCore.Mvc.TagHelpers.dll
 C:\Users\Mohammad\source\repos\SepandPay.MMS.Web\MMSApp\bin\Debug\net7.0\WebEssentials.AspNetCore.Pwa.dll
 C:\Users\Mohammad\source\repos\SepandPay.MMS.Web\MMSApp\obj\Debug\net7.0\MMSApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Mohammad\source\repos\SepandPay.MMS.Web\MMSApp\bin\Debug\net7.0\MMSModel.dll
+C:\Users\Mohammad\source\repos\SepandPay.MMS.Web\MMSApp\bin\Debug\net7.0\MMSModel.pdb
