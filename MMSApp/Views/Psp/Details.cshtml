@@ -1,21 +1,21 @@
 ﻿@model MMSModel.Entity.Psp
 
 @{
-    ViewData["Title"] = "Details";
+    ViewData["Title"] = $"اطلاعات Psp {@Model.Name}";
 }
 
+<h2>اطلاعات Psp @Model.Name</h2>
 <form asp-action="Details">
-    <!-- ROW-1 OPEN -->
     <div class="row">
         <div class="col-md-12 col-lg-12">
-
             <div class="card">
                 <div class="card-header">
-                    <h3 class="card-title">اطلاعات ...</h3>
+                    <h3 class="card-title">اطلاعات PSP</h3>
                 </div>
                 <div class="card-body">
                     <div>
                         <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
                         <div class="row">
                             <div class="col-md-6 col-12">
                                 <div class="form-group">
@@ -31,152 +31,7 @@
                                     <span asp-validation-for="Alias" class="text-danger"></span>
                                 </div>
                             </div>
-
-
                         </div>
-
-                        <div class="row">
-                            <div class="col-md-6 col-12">
-                                <div class="form-group">
-                                    <label asp-for="IIN" class="control-label"></label>
-                                    <input asp-for="IIN" class="form-control" readonly="" />
-                                    <span asp-validation-for="IIN" class="text-danger"></span>
-                                </div>
-                            </div>
-                            <div class="col-md-6 col-12">
-                                <div class="form-group">
-                                    <label asp-for="TerminalNo" class="control-label"></label>
-                                    <input asp-for="TerminalNo" class="form-control" readonly="" />
-                                    <span asp-validation-for="TerminalNo" class="text-danger"></span>
-                                </div>
-                            </div>
-
-
-                        </div>
-
-                        <div class="row">
-                            <div class="col-md-6 col-12">
-                                <div class="form-group">
-                                    <label asp-for="AcceptorCode" class="control-label"></label>
-                                    <input asp-for="AcceptorCode" class="form-control" readonly="" />
-                                    <span asp-validation-for="AcceptorCode" class="text-danger"></span>
-                                </div>
-                            </div>
-                            <div class="col-md-6 col-12">
-                                <div class="form-group">
-                                    <label asp-for="StepsCount" class="control-label"></label>
-                                    <input asp-for="StepsCount" class="form-control" readonly="" />
-                                    <span asp-validation-for="StepsCount" class="text-danger"></span>
-                                </div>
-                            </div>
-
-
-                        </div>
-
-
-
-
-                        <div class="row">
-                            <div class="col-md-6 col-12">
-                                <div class="form-group">
-                                    <label asp-for="Enabled" class="control-label"></label>
-                                    <input asp-for="Enabled" class="form-control" readonly="" />
-                                    <span asp-validation-for="Enabled" class="text-danger"></span>
-                                </div>
-
-                            </div>
-                            <div class="col-md-6 col-12">
-                                <div class="form-group">
-                                    <label asp-for="CreatorUserId" class="control-label"></label>
-                                    <input asp-for="CreatorUserId" class="form-control" readonly="" />
-                                    <span asp-validation-for="CreatorUserId" class="text-danger"></span>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-md-6 col-12">
-                                <div class="form-group">
-                                    <label asp-for="CutOffTime" class="control-label"></label>
-                                    <input asp-for="CutOffTime" class="form-control" readonly="" />
-                                    <span asp-validation-for="CutOffTime" class="text-danger"></span>
-                                </div>
-
-                            </div>
-                            <div class="col-md-6 col-12">
-                                <div class="form-group">
-                                    <label asp-for="SettlementIban" class="control-label"></label>
-                                    <input asp-for="SettlementIban" class="form-control" readonly="" />
-                                    <span asp-validation-for="SettlementIban" class="text-danger"></span>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-md-6 col-12">
-                                <div class="form-group">
-                                    <label asp-for="WageIban" class="control-label"></label>
-                                    <input asp-for="WageIban" class="form-control" readonly="" />
-                                    <span asp-validation-for="WageIban" class="text-danger"></span>
-                                </div>
-
-                            </div>
-                            <div class="col-md-6 col-12">
-                                <div class="form-group">
-                                    <label asp-for="TlsHostCertificateFingerprint" class="control-label"></label>
-                                    <input asp-for="TlsHostCertificateFingerprint" class="form-control" readonly="" />
-                                    <span asp-validation-for="TlsHostCertificateFingerprint" class="text-danger"></span>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-md-6 col-12">
-                                <div class="form-group">
-                                    <label asp-for="CreateDate" class="control-label"></label>
-                                    <input asp-for="CreateDate" class="form-control" readonly="" />
-                                    <span asp-validation-for="CreateDate" class="text-danger"></span>
-                                </div>
-                            </div>
-                            <div class="col-md-6 col-12">
-                                <div class="row mt-6">
-                                    <div class="col-6">
-                                        <div class="custom-controls-stacked">
-                                            <label class="custom-control custom-checkbox" asp-for="IsDeleted">
-                                                <input asp-for="IsDeleted" type="checkbox" class="custom-control-input" name="example-checkbox1" value="@Model.IsDeleted" checked="@Model.IsDeleted" disabled>
-                                                <span asp-validation-for="IsDeleted" class="custom-control-label">
-                                                    حذف شده
-                                                </span>
-                                            </label>
-
-                                        </div>
-                                    </div>
-                                    <div class="col-6">
-                                        <div class="custom-controls-stacked">
-                                            <label class="custom-control custom-checkbox" asp-for="IsActive">
-                                                <input asp-for="IsActive" type="checkbox" class="custom-control-input" name="example-checkbox3" value="@Model.IsActive" checked="@Model.IsActive" disabled>
-                                                <span asp-validation-for="IsActive" class="custom-control-label">فعال شده</span>
-                                            </label>
-
-                                        </div>
-                                    </div>
-
-
-                                </div>
-
-                            </div>
-
-
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="card">
-                <div class="card-header">
-                    <h3 class="card-title">اطلاعات PSP</h3>
-                </div>
-                <div class="card-body">
-                    <div>
-                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
                         <div class="row">
                             <div class="col-md-6 col-12">
                                 <div class="form-group">
@@ -211,15 +66,52 @@
                                 </div>
                             </div>
                         </div>
+                        <div class="row">
+                            <div class="col-md-6 col-12">
+                                <div class="form-group">
+                                    <label asp-for="IIN" class="control-label"></label>
+                                    <input asp-for="IIN" class="form-control" readonly="" />
+                                    <span asp-validation-for="IIN" class="text-danger"></span>
+                                </div>
+                            </div>
+                            <div class="col-md-6 col-12">
+                                <div class="form-group">
+                                    <label asp-for="CutOffTime" class="control-label"></label>
+                                    <input asp-for="CutOffTime" class="form-control" readonly="" />
+                                    <span asp-validation-for="CutOffTime" class="text-danger"></span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
 
+                            <div class="col-md-6 col-12">
+                                <div class="form-group">
+                                    <label asp-for="TlsHostCertificateFingerprint" class="control-label"></label>
+                                    <input asp-for="TlsHostCertificateFingerprint" class="form-control" readonly="" />
+                                    <span asp-validation-for="TlsHostCertificateFingerprint" class="text-danger"></span>
+                                </div>
+                            </div>
+                            <div class="col-md-6 col-12">
+                                <div class="form-group form-elements">
+                                    <div class="form-label">Enabled</div>
+                                    <div class="custom-controls-stacked d-flex flex-row">
+                                        <label class="custom-control custom-radio">
+                                            <input asp-for="Enabled" disabled type="radio" class="custom-control-input" name="example-radios" value="Enabled" checked="Enabled">
+                                            <span asp-validation-for="Enabled" class="custom-control-label">هست</span>
+                                        </label>
+                                        <label class="custom-control custom-radio mr-7">
+                                            <input asp-for="Enabled" disabled type="radio" class="custom-control-input" name="example-radios" value="Enabled">
+                                            <span asp-validation-for="Enabled" class="custom-control-label">نیست</span>
+                                        </label>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
 
                     </div>
                 </div>
             </div>
-
-
-
-
             <div class="card">
                 <div class="card-header">
                     <h3 class="card-title">اطلاعات شاپرک</h3>
@@ -292,10 +184,74 @@
                 </div>
                 <!-- TABLE WRAPPER -->
             </div>
-            <!-- SECTION WRAPPER -->
+            <div class="card">
+                <div class="card-header">
+                    <h3 class="card-title">
+                        اطلاعات پرداخت یاری
+                    </h3>
+                </div>
+                <div class="card-body">
+                    <div>
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+
+
+
+                        <div class="row">
+                            <div class="col-md-6 col-12">
+                                <div class="form-group">
+                                    <label asp-for="AcceptorCode" class="control-label"></label>
+                                    <input asp-for="AcceptorCode" class="form-control" readonly="" />
+                                    <span asp-validation-for="AcceptorCode" class="text-danger"></span>
+                                </div>
+                            </div>
+                            <div class="col-md-6 col-12">
+                                <div class="form-group">
+                                    <label asp-for="StepsCount" class="control-label"></label>
+                                    <input asp-for="StepsCount" class="form-control" readonly="" />
+                                    <span asp-validation-for="StepsCount" class="text-danger"></span>
+                                </div>
+                            </div>
+                        </div>
+
+
+
+
+                        <div class="row">
+                            <div class="col-md-6 col-12">
+                                <div class="form-group">
+                                    <label asp-for="WageIban" class="control-label"></label>
+                                    <input asp-for="WageIban" class="form-control" readonly="" />
+                                    <span asp-validation-for="WageIban" class="text-danger"></span>
+                                </div>
+
+                            </div>
+                            <div class="col-md-6 col-12">
+                                <div class="form-group">
+                                    <label asp-for="SettlementIban" class="control-label"></label>
+                                    <input asp-for="SettlementIban" class="form-control" readonly="" />
+                                    <span asp-validation-for="SettlementIban" class="text-danger"></span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-6 col-12">
+                                <div class="form-group">
+                                    <label asp-for="TerminalNo" class="control-label"></label>
+                                    <input asp-for="TerminalNo" class="form-control" readonly="" />
+                                    <span asp-validation-for="TerminalNo" class="text-danger"></span>
+                                </div>
+                            </div>
+                            <div class="col-md-6 col-12">
+                            </div>
+
+                        </div>
+
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
-    <!-- ROW-1 CLOSED -->
 
     <div class="d-flex flex-row justify-content-between pb-6">
 
