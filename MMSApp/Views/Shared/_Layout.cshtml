@@ -88,7 +88,7 @@
     <link asp-append-version="true" rel="stylesheet" href="~/styles/custom.css" />
 
 </head>
-<body class="app sidebar-mini Left-menu-Default  Sidemenu-left-icons">
+<body class="app sidebar-mini Left-menu-Default  Sidemenu-left-icons" id="myBody" onload="choseTheme()">
 
     <!-- Start Switcher -->
     <div class="switcher-wrapper ">
@@ -108,7 +108,7 @@
                                 <h4>Versions</h4>
                                 <div class="switch_section">
                                     <div class="switch-toggle d-flex">
-                                        <span class="ml-auto">Light Mode</span>
+                                        <span class="ml-auto">تم روشن</span>
                                         <div class="onoffswitch2">
                                             <input type="radio" name="onoffswitch4" id="myonoffswitch7" class="onoffswitch2-checkbox" checked>
                                             <label for="myonoffswitch7" class="onoffswitch2-label"></label>
@@ -340,7 +340,7 @@
                                     <div class="switch-toggle d-flex">
                                         <span class="ml-auto">Light Mode</span>
                                         <div class="onoffswitch2">
-                                            <input type="radio" name="onoffswitch4" id="myonoffswitch7" class="onoffswitch2-checkbox" checked>
+                                            <input type="radio" name="onoffswitch4" id="myonoffswitch7" class="onoffswitch2-checkbox">
                                             <label for="myonoffswitch7" class="onoffswitch2-label"></label>
                                         </div>
                                     </div>
@@ -993,6 +993,20 @@
 
     <!-- CUSTOM JS -->
     <script src="~/js/custom.js" asp-append-version="true"></script>
+    <script>
+        function choseTheme() {
+            var theme = JSON.parse(localStorage.getItem('light-mode'));
+            var element = document.getElementById("myBody");
+
+            if (theme) {
+                element.classList.add("light-mode");
+                element.classList.remove("dark-mode")
+            } else {
+                element.classList.remove("light-mode");
+                element.classList.add("dark-mode")
+            }
+        }
+    </script>
     <script>
         $(function () {
             $('[data-toggle="tooltip"]').tooltip()
