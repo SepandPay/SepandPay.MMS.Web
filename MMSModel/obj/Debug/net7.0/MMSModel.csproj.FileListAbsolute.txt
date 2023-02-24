@@ -10,3 +10,15 @@ C:\Users\Mohammad\source\repos\SepandPay.MMS.Web\MMSModel\obj\Debug\net7.0\MMSMo
 C:\Users\Mohammad\source\repos\SepandPay.MMS.Web\MMSModel\obj\Debug\net7.0\refint\MMSModel.dll
 C:\Users\Mohammad\source\repos\SepandPay.MMS.Web\MMSModel\obj\Debug\net7.0\MMSModel.pdb
 C:\Users\Mohammad\source\repos\SepandPay.MMS.Web\MMSModel\obj\Debug\net7.0\ref\MMSModel.dll
+C:\Users\Faeze\Source\Repos\SepandPay.MMS.Web\MMSModel\bin\Debug\net7.0\MMSModel.deps.json
+C:\Users\Faeze\Source\Repos\SepandPay.MMS.Web\MMSModel\bin\Debug\net7.0\MMSModel.dll
+C:\Users\Faeze\Source\Repos\SepandPay.MMS.Web\MMSModel\bin\Debug\net7.0\MMSModel.pdb
+C:\Users\Faeze\Source\Repos\SepandPay.MMS.Web\MMSModel\obj\Debug\net7.0\MMSModel.csproj.AssemblyReference.cache
+C:\Users\Faeze\Source\Repos\SepandPay.MMS.Web\MMSModel\obj\Debug\net7.0\MMSModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Faeze\Source\Repos\SepandPay.MMS.Web\MMSModel\obj\Debug\net7.0\MMSModel.AssemblyInfoInputs.cache
+C:\Users\Faeze\Source\Repos\SepandPay.MMS.Web\MMSModel\obj\Debug\net7.0\MMSModel.AssemblyInfo.cs
+C:\Users\Faeze\Source\Repos\SepandPay.MMS.Web\MMSModel\obj\Debug\net7.0\MMSModel.csproj.CoreCompileInputs.cache
+C:\Users\Faeze\Source\Repos\SepandPay.MMS.Web\MMSModel\obj\Debug\net7.0\MMSModel.dll
+C:\Users\Faeze\Source\Repos\SepandPay.MMS.Web\MMSModel\obj\Debug\net7.0\refint\MMSModel.dll
+C:\Users\Faeze\Source\Repos\SepandPay.MMS.Web\MMSModel\obj\Debug\net7.0\MMSModel.pdb
+C:\Users\Faeze\Source\Repos\SepandPay.MMS.Web\MMSModel\obj\Debug\net7.0\ref\MMSModel.dll

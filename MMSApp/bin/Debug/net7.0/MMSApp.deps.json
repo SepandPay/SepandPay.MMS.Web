@@ -12,7 +12,7 @@
           "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.17.0",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "7.0.3",
           "WebEssentials.AspNetCore.PWA": "1.0.65",
-          "TestHttpClient": "1.0.0.0"
+          "SepandPay.ApiClient": "1.0.0.0"
         },
         "runtime": {
           "MMSApp.dll": {}
@@ -2391,19 +2391,11 @@
           "MMSModel.dll": {}
         }
       },
-      "TestHttpClient/1.0.0.0": {
+      "SepandPay.ApiClient/1.0.0.0": {
         "runtime": {
-          "TestHttpClient.dll": {
+          "SepandPay.ApiClient.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
-          }
-        }
-      },
-      "System.Net.Http.Formatting/5.2.9.0": {
-        "runtime": {
-          "System.Net.Http.Formatting.dll": {
-            "assemblyVersion": "5.2.9.0",
-            "fileVersion": "5.2.61129.10"
           }
         }
       }
@@ -3911,12 +3903,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "TestHttpClient/1.0.0.0": {
-      "type": "reference",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "System.Net.Http.Formatting/5.2.9.0": {
+    "SepandPay.ApiClient/1.0.0.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
