@@ -6,7 +6,7 @@ namespace Filter_Sort.Controllers
 {
     public class HomeController : Controller
     {
-        private SchoolContext db = new SchoolContext();
+        private readonly SchoolContext db = new();
 
         public ActionResult Index()
         {

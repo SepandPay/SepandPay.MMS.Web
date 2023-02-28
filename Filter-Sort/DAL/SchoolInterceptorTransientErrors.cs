@@ -15,7 +15,7 @@ namespace Filter_Sort.DAL
     public class SchoolInterceptorTransientErrors : DbCommandInterceptor
     {
         private int _counter = 0;
-        private ILogger _logger = new Logger();
+        private readonly Logging.ILogger _logger = new Logger();
 
         public override void ReaderExecuting(DbCommand command, DbCommandInterceptionContext<DbDataReader> interceptionContext)
         {

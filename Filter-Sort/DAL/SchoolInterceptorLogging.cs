@@ -14,8 +14,8 @@ namespace Filter_Sort.DAL
 {
     public class SchoolInterceptorLogging : DbCommandInterceptor
     {
-        private ILogger _logger = new Logger();
-        private readonly Stopwatch _stopwatch = new Stopwatch();
+        private readonly Logging.ILogger _logger = new Logger();
+        private readonly Stopwatch _stopwatch = new();
 
         public override void ScalarExecuting(DbCommand command, DbCommandInterceptionContext<object> interceptionContext)
         {
