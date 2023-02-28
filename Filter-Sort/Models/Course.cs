@@ -11,5 +11,7 @@ namespace Filter_Sort.Models
         public int Credits { get; set; }
 
         public virtual ICollection<Enrollment> Enrollments { get; set; }
+        public int DepartmentID { get; internal set; }
+        public object Department { get; internal set; }
     }
 }

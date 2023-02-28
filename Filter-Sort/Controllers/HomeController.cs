@@ -1,32 +1,49 @@
-﻿using Filter_Sort.Models;
+﻿using Filter_Sort.DAL;
 using Microsoft.AspNetCore.Mvc;
-using System.Diagnostics;
+using Filter_Sort.ViewModels;
 
 namespace Filter_Sort.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
+        private SchoolContext db = new SchoolContext();
 
-        public HomeController(ILogger<HomeController> logger)
-        {
-            _logger = logger;
-        }
-
-        public IActionResult Index()
+        public ActionResult Index()
         {
             return View();
         }
 
-        public IActionResult Privacy()
+        public ActionResult About()
         {
+            // Commenting out LINQ to show how to do the same thing in SQL.
+            //IQueryable<EnrollmentDateGroup> = from student in db.Students
+            //           group student by student.EnrollmentDate into dateGroup
+            //           select new EnrollmentDateGroup()
+            //           {
+            //               EnrollmentDate = dateGroup.Key,
+            //               StudentCount = dateGroup.Count()
+            //           };
+
+            // SQL version of the above LINQ code.
+            string query = "SELECT EnrollmentDate, COUNT(*) AS StudentCount "
+                + "FROM Person "
+                + "WHERE Discriminator = 'Student' "
+                + "GROUP BY EnrollmentDate";
+            IEnumerable<EnrollmentDateGroup> data = db.Database.SqlQuery<EnrollmentDateGroup>(query);
+
+            return View(data.ToList());
+        }
+        public ActionResult Contact()
+        {
+            ViewBag.Message = "Your contact page.";
+
             return View();
         }
 
-        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-        public IActionResult Error()
+        protected override void Dispose(bool disposing)
         {
-            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+            db.Dispose();
+            base.Dispose(disposing);
         }
     }
 }
