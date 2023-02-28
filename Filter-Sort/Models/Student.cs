@@ -8,7 +8,6 @@ namespace Filter_Sort.Models
         [DisplayFormat(DataFormatString = "{0:yyyy-MM-dd}", ApplyFormatInEditMode = true)]
         [Display(Name = "Enrollment Date")]
         public DateTime EnrollmentDate { get; set; }
-
-        public virtual ICollection<Enrollment> Enrollments { get; set; }
+        public virtual ICollection<Enrollment>? Enrollments { get; set; }
     }
 }

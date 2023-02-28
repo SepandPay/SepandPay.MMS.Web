@@ -12,11 +12,11 @@ using Filter_Sort.Models;
 using System.Data.Entity.Infrastructure;
 using Filter_Sort.DAL;
 
-namespace ContosoUniversity.Controllers
+namespace Filter_Sort.Controllers
 {
     public class DepartmentController : Controller
     {
-        private SchoolContext db = new SchoolContext();
+        private readonly SchoolContext db = new();
 
         // GET: Department
         public async Task<ActionResult> Index()
@@ -209,7 +209,7 @@ namespace ContosoUniversity.Controllers
             }
             catch (DbUpdateConcurrencyException)
             {
-                return RedirectToAction("Delete", new { concurrencyError = true, id = department.DepartmentID });
+                return RedirectToAction("Delete");
             }
             catch (DataException /* dex */)
             {

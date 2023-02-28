@@ -37,22 +37,14 @@ namespace Filter_Sort.Controllers
                 students = students.Where(s => s.LastName.Contains(searchString)
                                        || s.FirstMidName.Contains(searchString));
             }
-            switch (sortOrder)
+            students = sortOrder switch
             {
-                case "name_desc":
-                    students = students.OrderByDescending(s => s.LastName);
-                    break;
-                case "Date":
-                    students = students.OrderBy(s => s.EnrollmentDate);
-                    break;
-                case "date_desc":
-                    students = students.OrderByDescending(s => s.EnrollmentDate);
-                    break;
-                default:  // Name ascending 
-                    students = students.OrderBy(s => s.LastName);
-                    break;
-            }
-
+                "name_desc" => students.OrderByDescending(s => s.LastName),
+                "Date" => students.OrderBy(s => s.EnrollmentDate),
+                "date_desc" => students.OrderByDescending(s => s.EnrollmentDate),
+                // Name ascending 
+                _ => students.OrderBy(s => s.LastName),
+            };
             int pageSize = 3;
             int pageNumber = (page ?? 1);
             return View(students.ToPagedList(pageNumber, pageSize));
@@ -183,7 +175,7 @@ namespace Filter_Sort.Controllers
             catch (RetryLimitExceededException/* dex */)
             {
                 //Log the error (uncomment dex variable name and add a line here to write a log.
-                return RedirectToAction("Delete", new { id, saveChangesError = true });
+                return RedirectToAction("Delete");
             }
             return RedirectToAction("Index");
         }
