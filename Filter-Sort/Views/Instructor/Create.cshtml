@@ -53,7 +53,7 @@
                     <tr>
                         @{
                             int cnt = 0;
-                            List<ContosoUniversity.ViewModels.AssignedCourseData> courses = ViewBag.Courses;
+                            List<Filter_Sort.ViewModels.AssignedCourseData> courses = ViewBag.Courses;
 
                             foreach (var course in courses)
                             {
@@ -87,6 +87,4 @@
     @Html.ActionLink("Back to List", "Index")
 </div>
 
-@section Scripts {
-    @Scripts.Render("~/bundles/jqueryval")
-}
+
