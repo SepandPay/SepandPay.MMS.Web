@@ -1,7 +1,11 @@
+using Microsoft.EntityFrameworkCore;
+using MMSApp.Models;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddDbContext<MMSPortalV3Context>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("MMS_DB")));
 
 var app = builder.Build();
 

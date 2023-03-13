@@ -21,9 +21,10 @@ namespace MMSApp.Controllers
         // GET: Degrees
         public async Task<IActionResult> Index()
         {
-              return _context.Degrees != null ? 
-                          View(await _context.Degrees.ToListAsync()) :
-                          Problem("Entity set 'MMSPortalV3Context.Degrees'  is null.");
+            return _context.Degrees != null ?
+                        View(await _context.Degrees.ToListAsync()) :
+                        Problem("Entity set 'MMSPortalV3Context.Degrees'  is null.");
+            // return View();
         }
 
         // GET: Degrees/Details/5
@@ -149,14 +150,14 @@ namespace MMSApp.Controllers
             {
                 _context.Degrees.Remove(degree);
             }
-            
+
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
 
         private bool DegreeExists(long id)
         {
-          return (_context.Degrees?.Any(e => e.Id == id)).GetValueOrDefault();
+            return (_context.Degrees?.Any(e => e.Id == id)).GetValueOrDefault();
         }
     }
 }
