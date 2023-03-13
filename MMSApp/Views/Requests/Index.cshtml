@@ -1,0 +1,163 @@
+﻿@model IEnumerable<MMSApp.Models.Request>
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.InstallationDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ShaparakDescription)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ShaparakTrackingNumber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TrackingNumber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ShaparakState)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LastCallTime)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.InsertDateTime)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RequestData)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EditedBy)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IsDeleted)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IsActive)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CreatorUserId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CreateDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UpdaterUserId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UpdateTime)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Customer)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Merchant)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Psp)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RequestState)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RequestType)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.InstallationDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ShaparakDescription)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ShaparakTrackingNumber)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TrackingNumber)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ShaparakState)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LastCallTime)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.InsertDateTime)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.RequestData)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EditedBy)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IsDeleted)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IsActive)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CreatorUserId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CreateDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UpdaterUserId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UpdateTime)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Customer.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Merchant.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Psp.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.RequestState.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.RequestType.Id)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+</body>
+</html>
