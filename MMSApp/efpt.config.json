@@ -1,0 +1,165 @@
+﻿{
+   "CodeGenerationMode": 3,
+   "ContextClassName": "MMS.Portal.V3Context",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": true,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Models",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "MMSApp",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[Alphabets]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[AspNetRoleClaims]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[AspNetRoles]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[AspNetUserClaims]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[AspNetUserLogins]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[AspNetUserRoles]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[AspNetUsers]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[AspNetUserTokens]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Cities]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[CommissionTypes]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Contracts]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Countries]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Degrees]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[GuildCategories]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[GuildSubCategories]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Ibans]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[MarketerContract]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Merchants]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[MerchantStates]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[MerchantSyncTable]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Persons]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Projects]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Provinces]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[PSP]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[RequestDetails]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[RequestIbans]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Requests]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[RequestStates]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[RequestTypes]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[SettelementTypes]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ShopPersons]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Shops]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "(localdb)\\MSSQLLocalDB.MMS.Portal.V3",
+   "UncountableWords": null,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": true,
+   "UseDateOnlyTimeOnly": true,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": false,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false,
+   "UseT4": false
+}

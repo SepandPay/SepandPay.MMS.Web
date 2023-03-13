@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Faeze\\Source\\Repos\\SepandPay.MMS.Web\\MMSModel\\MMSModel.csproj": {}
+    "C:\\Users\\Mohammad\\source\\repos\\SepandPay\\SepandPay.MMS.Web\\MMSModel\\MMSModel.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Faeze\\Source\\Repos\\SepandPay.MMS.Web\\MMSModel\\MMSModel.csproj": {
+    "C:\\Users\\Mohammad\\source\\repos\\SepandPay\\SepandPay.MMS.Web\\MMSModel\\MMSModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Faeze\\Source\\Repos\\SepandPay.MMS.Web\\MMSModel\\MMSModel.csproj",
+        "projectUniqueName": "C:\\Users\\Mohammad\\source\\repos\\SepandPay\\SepandPay.MMS.Web\\MMSModel\\MMSModel.csproj",
         "projectName": "MMSModel",
-        "projectPath": "C:\\Users\\Faeze\\Source\\Repos\\SepandPay.MMS.Web\\MMSModel\\MMSModel.csproj",
-        "packagesPath": "C:\\Users\\Faeze\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Faeze\\Source\\Repos\\SepandPay.MMS.Web\\MMSModel\\obj\\",
+        "projectPath": "C:\\Users\\Mohammad\\source\\repos\\SepandPay\\SepandPay.MMS.Web\\MMSModel\\MMSModel.csproj",
+        "packagesPath": "C:\\Users\\Mohammad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mohammad\\source\\repos\\SepandPay\\SepandPay.MMS.Web\\MMSModel\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Faeze\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Mohammad\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Users\\Mohammad\\Downloads": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
