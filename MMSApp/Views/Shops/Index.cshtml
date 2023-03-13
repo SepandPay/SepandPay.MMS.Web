@@ -1,0 +1,217 @@
+﻿@model IEnumerable<MMSApp.Models.Shop>
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Telephone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AddressFa)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AddressEn)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.WebSiteAddress)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IsSharedAccount)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IsMultiAccount)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ShopPostalCode)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ShopFaxNumber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ShopCityPreCode)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ShopBusinessLicenseNumber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ShopBusinessLicenseIssueDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ShopBusinessLicenseExpireDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ShopEmail)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.BusinesslicenseImage)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RedirectUrl)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ShopLogo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CustomerKey)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CustomerValue)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ShopNameFa)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ShopNameEn)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CityCode)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.taxPayerCode)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IsDeleted)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IsActive)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CreatorUserId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CreateDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UpdaterUserId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UpdateTime)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.City)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.GuildCategory)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Telephone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AddressFa)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AddressEn)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.WebSiteAddress)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IsSharedAccount)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IsMultiAccount)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ShopPostalCode)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ShopFaxNumber)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ShopCityPreCode)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ShopBusinessLicenseNumber)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ShopBusinessLicenseIssueDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ShopBusinessLicenseExpireDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ShopEmail)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BusinesslicenseImage)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.RedirectUrl)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ShopLogo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CustomerKey)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CustomerValue)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ShopNameFa)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ShopNameEn)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CityCode)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.taxPayerCode)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IsDeleted)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IsActive)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CreatorUserId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CreateDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UpdaterUserId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UpdateTime)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.City.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.GuildCategory.Id)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+</body>
+</html>
