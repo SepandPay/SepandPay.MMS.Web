@@ -1,0 +1,283 @@
+﻿@model IEnumerable<MMSApp.Models.Person>
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.IsDisable)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NationalNumber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FirstNameFa)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LastNameFa)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FirstNameEn)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LastNameEn)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.BirthLocation)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.BirthDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.BirthCertificatePlaceOfIssue)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FatherNameFa)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FatherNameEn)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Gender)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.BirthCertificateNo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.BirthCertificateSerial)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.BirthCertificateNumericNo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PostalCode)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IsLegal)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IsForeign)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RegisterDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RegisterNo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ComNameEn)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ComNameFa)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RsidencyType)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VitalStatus)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NationalLegalCode)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CountryAbbrivation)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ForeignPervasiveCode)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PassportNo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PassportExpireDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CommercialCode)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IsDeleted)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IsActive)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CreatorUserId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CreateDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UpdaterUserId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UpdateTime)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PersonTypeId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.BirthCertificateAlphabiticNo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Country)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Degree)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NationalityCountry)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.IsDisable)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NationalNumber)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FirstNameFa)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LastNameFa)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FirstNameEn)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LastNameEn)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BirthLocation)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BirthDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BirthCertificatePlaceOfIssue)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FatherNameFa)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FatherNameEn)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Gender)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BirthCertificateNo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BirthCertificateSerial)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BirthCertificateNumericNo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PostalCode)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IsLegal)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IsForeign)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.RegisterDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.RegisterNo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ComNameEn)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ComNameFa)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.RsidencyType)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VitalStatus)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NationalLegalCode)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CountryAbbrivation)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ForeignPervasiveCode)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PassportNo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PassportExpireDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CommercialCode)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IsDeleted)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IsActive)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CreatorUserId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CreateDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UpdaterUserId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UpdateTime)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PersonTypeId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BirthCertificateAlphabiticNo.AlphabiticChar)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Country.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Degree.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NationalityCountry.Id)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+</body>
+</html>
