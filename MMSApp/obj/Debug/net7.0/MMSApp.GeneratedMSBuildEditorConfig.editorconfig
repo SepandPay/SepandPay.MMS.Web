@@ -16,6 +16,26 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Mohammad\source\repos\SepandPay\SepandPay.MMS.Web\MMSApp
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Mohammad/source/repos/SepandPay/SepandPay.MMS.Web/MMSApp/Views/Alphabets/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxwaGFiZXRzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohammad/source/repos/SepandPay/SepandPay.MMS.Web/MMSApp/Views/Alphabets/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxwaGFiZXRzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohammad/source/repos/SepandPay/SepandPay.MMS.Web/MMSApp/Views/Alphabets/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxwaGFiZXRzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohammad/source/repos/SepandPay/SepandPay.MMS.Web/MMSApp/Views/Alphabets/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxwaGFiZXRzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohammad/source/repos/SepandPay/SepandPay.MMS.Web/MMSApp/Views/Alphabets/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxwaGFiZXRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Mohammad/source/repos/SepandPay/SepandPay.MMS.Web/MMSApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
