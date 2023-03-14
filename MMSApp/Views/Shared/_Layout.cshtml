@@ -69,7 +69,7 @@
     <!-- C3 CHARTS CSS -->
     <link href="~/plugins/charts-c3/c3-chart.css" rel="stylesheet" asp-append-version="true" />
 
-    @await RenderSectionAsync("Styles", required: false)
+
 
     <!-- CUSTOM SCROLL BAR CSS-->
     <link href="~/plugins/p-scroll/perfect-scrollbar-rtl.css" rel="stylesheet" asp-append-version="true" />
@@ -86,7 +86,7 @@
     <link href="~/iconfonts/font-awesome/css/font-awesome.min.css" rel="stylesheet" asp-append-version="true" />
     <link asp-append-version="true" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css" integrity="sha512-SzlrxWUlpfuzQ+pcUCosxcglQRNAq/DZjVsC0lE40xsADsfeQoEypE+enwcOiGjk/bSuGGKHEyjSoQ1zVisanQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link asp-append-version="true" rel="stylesheet" href="~/styles/custom.css" />
-
+    @await RenderSectionAsync("Styles", required: false)
 </head>
 <body class="app sidebar-mini Left-menu-Default  Sidemenu-left-icons" id="myBody" onload="choseTheme()">
 
@@ -302,7 +302,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="index.html" class="slide-item">
+                                <a class="slide-item" asp-controller="CustomerCreation" asp-action="Index">
                                     <i class="sidemenu-icon fe fe-chevrons-left"></i>
 
                                     ثبت مشتری جدید
