@@ -29,6 +29,6 @@ app.UseAuthorization();
 //    pattern: "{controller=Home}/{action=Index}/{id?}");
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Psp}/{action=Index}/{id?}");
+    pattern: "{controller=CustomerCreation}/{action=Index}/{id?}");
 
 app.Run();

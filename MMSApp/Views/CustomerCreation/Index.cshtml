@@ -9,41 +9,296 @@
     @*<link rel="stylesheet" href="~/css-rtl/jquery-steps/normalize.css" asp-append-version="true">*@
     <link rel="stylesheet" href="~/css-rtl/jquery-steps/main.css" asp-append-version="true">
     <link rel="stylesheet" href="~/css-rtl/jquery-steps/jquery.steps.css" asp-append-version="true">
+    <style>
+
+        .select2-selection__rendered, .selection {
+            display: none;
+        }
+    </style>
 }
 
 @*@Html.DropDownList("Countries", (IEnumerable
-        <SelectListItem>)Model.CountryCombo)*@
-
-
-
-
-
-<h1>Basic Demo</h1>
+        <SelectListItem>)Model.Countries);*@
 
 
 
 <div id="wizard">
-    <h2>First Step</h2>
+    <h2>اطلاعات شخصی</h2>
     <section>
-        step1
+        <form method="post" class="card">
+            <div class="card-header">
+                <h3 class="card-title">پنل اطلاعات شخصی</h3>
+            </div>
+            <div class="card-body ">
+
+
+                <div class="form-group">
+                    <label class="form-label">
+                        انتخاب نوع مشتری
+                    </label>
+                    <select id="personType" class="form-control select2" data-placeholder="Choose one (with optgroup)">
+
+                        <option selected="selected" value="TRU">حقیقی</option>
+                        <option value="LEG">حقوقی</option>
+                        <option value="SUB">اتباع</option>
+                    </select>
+                </div>
+
+                <!-- برای حقیقی -->
+                <div class="row">
+                    <div class="col-12 col-md-6">
+                        <div class="form-group">
+                            <label class="form-label"> کد ملی</label>
+                            <input type="text" class="form-control is-valid state-valid" name="example-text-input-valid" placeholder="برای مثال: 4711046003">
+                        </div>
+                    </div>
+
+                    <div class="col-12 col-md-6">
+                        <div class="form-group">
+                            <label class="form-label">ملیت</label>
+                            <select name="country" id="select-countries" class="form-control select2">
+                                >
+                                @foreach (var country in Model.Countries)
+                                {
+                                    <option value="@country">@country.PersianName</option>
+                                }
+
+                            </select>
+                        </div>
+                    </div>
+
+                    <div class="col-12 col-md-6">
+                        <div class="form-group">
+                            <label class="form-label"> نام فارسی</label>
+                            <input type="text" class="form-control is-valid state-valid" name="example-text-input-valid" placeholder="برای مثال: علی">
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-6">
+                        <div class="form-group">
+                            <label class="form-label"> نام لاتین</label>
+                            <input type="text" class="form-control is-valid state-valid" name="example-text-input-valid" placeholder="برای مثال: ali">
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-6">
+                        <div class="form-group">
+                            <label class="form-label">  نام خانوادگی فارسی</label>
+                            <input type="text" class="form-control is-valid state-valid" name="example-text-input-valid" placeholder="برای مثال: مردانی">
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-6">
+                        <div class="form-group">
+                            <label class="form-label">
+                                نام خانوادگی لاتین
+                            </label>
+                            <input type="text" class="form-control is-valid state-valid" name="example-text-input-valid" placeholder="برای مثال: mardani">
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-6">
+                        <div class="form-group">
+                            <label class="form-label">
+                                نام پدر فارسی
+                            </label>
+                            <input type="text" class="form-control is-valid state-valid" name="example-text-input-valid" placeholder="برای مثال: رضا">
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-6">
+                        <div class="form-group">
+                            <label class="form-label">
+                                نام پدر لاتین
+                            </label>
+                            <input type="text" class="form-control is-valid state-valid" name="example-text-input-valid" placeholder="برای مثال: reza">
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-6">
+                        <div class="form-group">
+                            <label class="form-label">
+                                محل تولد
+                            </label>
+                            <input type="text" class="form-control is-valid state-valid" name="example-text-input-valid" placeholder="برای مثال: تهران">
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-6">
+                        <div class="form-group">
+                            <label class="form-label">
+                                محل صدور
+                            </label>
+                            <input type="text" class="form-control is-valid state-valid" name="example-text-input-valid" placeholder="برای مثال: تهران">
+                        </div>
+                    </div>
+
+                    <div class="col-12 col-md-6">
+                        <label class="form-label"> تاریخ تولد</label>
+                        <div class="row gutters-xs">
+                            <div class="col-5">
+                                <select name="user[month]" class="form-control select2 ">
+                                    >
+
+                                    <option selected="selected" value="1">فروردین</option>
+                                    <option value="2">اردیبهشت</option>
+                                    <option value="3">خرداد</option>
+                                    <option value="4">تیر</option>
+                                    <option value="5">مرداد</option>
+                                    <option value="6">شهریور</option>
+                                    <option value="7">مهر</option>
+                                    <option value="8">آبان</option>
+                                    <option value="9">آذر</option>
+                                    <option value="10">دی</option>
+                                    <option value="11">بهمن</option>
+                                    <option value="12">اسفند</option>
+                                </select>
+                            </div>
+                            <div class="col-3">
+                                <select name="user[day]" class="form-control select2 ">
+                                    >
+
+
+                                    @for (int day = 1; day < 32; day++)
+                                    {
+                                        <option value="@day">@day</option>
+                                    }
+                                </select>
+                            </div>
+                            <div class="col-4">
+                                <select name="user[year]" class="form-control select2 ">
+                                    >
+                                    @for (int year = 1300; year < 1401; year++)
+                                    {
+                                        <option value="@year">@year</option>
+                                    }
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-12 col-md-6">
+                        <label class="form-label">جنسیت</label>
+                        <select name="country" id="select-countries" class="form-control select2 ">
+                            >
+                            <option value="male">مرد</option>
+                            <option value="female">زن</option>
+
+                        </select>
+                    </div>
+
+
+                    <div class="col-12 col-md-6">
+                        <div class="form-group">
+                            <label class="form-label">
+                                کد پستی
+                            </label>
+                            <input type="text" class="form-control is-valid state-valid" name="example-text-input-valid" placeholder="برای مثال: 1908699419">
+                        </div>
+                    </div>
+
+                    <div class="col-12 col-md-6">
+                        <label class="form-label">مدرک تحصیلی</label>
+                        <select name="country" id="select-countries" class="form-control select2 ">
+                            >
+                            <option value="دکتری">دکتری</option>
+                            <option value="دیپلم">دیپلم</option>
+                            <option value="زیر دیپلم">زیر دیپلم</option>
+                            <option value="کاردانی">کاردانی</option>
+                            <option value="کارشناسی">کارشناسی</option>
+                            <option value="کارشناسی">کارشناسی ارشد</option>
+
+                        </select>
+                    </div>
+
+                    <div class="col-12 col-md-6">
+                        <div class="form-group">
+                            <label class="form-label">
+                                شماره شناسنامه
+                            </label>
+                            <input type="text" class="form-control is-valid state-valid" name="example-text-input-valid" placeholder="برای مثال: 4711046003">
+                        </div>
+                    </div>
+
+                    <div class="col-12 col-md-6">
+                        <div class="form-group">
+                            <label class="form-label">
+                                شماره سریال شناسنامه
+                            </label>
+                            <input type="text" class="form-control is-valid state-valid" name="example-text-input-valid" placeholder="برای مثال: 4711046003">
+                        </div>
+                    </div>
+
+
+                    <div class="col-12 col-md-6">
+                        <label class="form-label"> حرف شماره سریال شناسنامه</label>
+                        <select name="country" id="select-countries" class="form-control select2 ">
+                            >
+                            <option value="الف">الف</option>
+                            <option value="ب">ب</option>
+                            <option value="پ">پ</option>
+                            <option value="ت">ت</option>
+                            <option value="ث">ث</option>
+                            <option value="ج">ج</option>
+                            <option value="چ">چ</option>
+                            <option value="ح">ح</option>
+                            <option value="خ">خ</option>
+                            <option value="د">د</option>
+                            <option value="ذ">ذ</option>
+                            <option value="ر">ر</option>
+                            <option value="ز">ز</option>
+                            <option value="ژ">ژ</option>
+                            <option value="س">س</option>
+                            <option value="ش">ش</option>
+                            <option value="ص">ص</option>
+                            <option value="ض">ض</option>
+                            <option value="ط">ط</option>
+                            <option value="ظ">ظ</option>
+                            <option value="ع">ع</option>
+                            <option value="غ">غ</option>
+                            <option value="ف">ف</option>
+                            <option value="ق">ق</option>
+                            <option value="ک">ک</option>
+                            <option value="گ">گ</option>
+                            <option value="ل">ل</option>
+                            <option value="م">م</option>
+                            <option value="ن">ن</option>
+                            <option value="و">و</option>
+                            <option value="ه">ه</option>
+                            <option value="ی">ی</option>
+
+                        </select>
+                    </div>
+
+                    <div class="col-12 col-md-6">
+                        <div class="form-group">
+                            <label class="form-label">
+                                عدد دو رقمی شماره سریال شناسنامه
+                            </label>
+                            <input type="text" class="form-control is-valid state-valid" name="example-text-input-valid" placeholder="برای مثال: 22">
+                        </div>
+                    </div>
+                </div>
+
+                <!-- برای حقوقی -->
+                <div class="row"></div>
+
+                <!-- برای اتباع -->
+                <div class="row"></div>
+
+            </div>
+        </form>
     </section>
 
-    <h2>Second Step</h2>
+    <h2>اطلاعات شاپ</h2>
     <section>
         step2
     </section>
 
-    <h2>Third Step</h2>
+    <h2>اطلاعات بانکی</h2>
     <section>
         step3
     </section>
 
-    <h2>Forth Step</h2>
+    <h2>اطلاعات Psp</h2>
     <section>
         step4
     </section>
 
-    <h2>Fifth Step</h2>
+    <h2>اطلاعات قراردادی</h2>
     <section>
         step5
     </section>

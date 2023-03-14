@@ -120,7 +120,7 @@
     }
 
     .wizard > .content {
-        background: #eee;
+        /*background: #eee;*/
         display: block;
         margin: 0.5em;
         min-height: 35em;
@@ -140,11 +140,11 @@
     }
 
     .wizard > .content > .body {
-        float: left;
-        position: absolute;
-        width: 95%;
-        height: 95%;
-        padding: 2.5%;
+        float: right;
+        /*position: absolute;*/
+        width: 100%;
+        height: 100%;
+        padding: 0%;
     }
 
         .wizard > .content > .body ul {

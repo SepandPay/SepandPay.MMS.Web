@@ -186,7 +186,7 @@ timeline__item:after {
 .custom-radio .custom-control-input:disabled:checked ~ .custom-control-label::before {
   background-color: #556ee7; }
 
-.custom-select:focus, .custom-file-input:focus ~ .custom-file-label::after {
+.:focus, .custom-file-input:focus ~ .custom-file-label::after {
   border-color: #556ee7; }
 
 .custom-file-label::after {
