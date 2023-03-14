@@ -1,0 +1,13 @@
+﻿@model MMSApp.Models.ViewModels.CustomerManagerViewModel
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+}
+
+@Html.DropDownList("Countries", (IEnumerable
+        <SelectListItem>)Model.CountryCombo)
+
+
+
+
