@@ -6,9 +6,20 @@
 }
 
 @section Styles {
-    @*<link rel="stylesheet" href="~/css-rtl/jquery-steps/normalize.css" asp-append-version="true">*@
-    <link rel="stylesheet" href="~/css-rtl/jquery-steps/main.css" asp-append-version="true">
-    <link rel="stylesheet" href="~/css-rtl/jquery-steps/jquery.steps.css" asp-append-version="true">
+    @*<link rel="stylesheet" href="~/css-rtl/jquery-steps/normalize.css"   >*@
+    @*  <link rel="stylesheet" href="~/css-rtl/jquery-steps/main.css"   >
+    <link rel="stylesheet" href="~/css-rtl/jquery-steps/jquery.steps.css"   >
+*@
+
+    <!--BOOTSTRAP-DATERANGEPICKER CSS-->
+    <link rel="stylesheet" href="~/plugins/bootstrap-daterangepicker/daterangepicker.css" asp-append-version="true" />
+
+    <!-- TIME PICKER CSS -->
+    <link href="~/plugins/time-picker/jquery.timepicker.css" rel="stylesheet" asp-append-version="true" />
+
+    <!-- DATE PICKER CSS -->
+    <link href="~/plugins/date-picker/spectrum.css" rel="stylesheet" asp-append-version="true" />
+
     <style>
 
         .select2-selection__rendered, .selection {
@@ -36,12 +47,12 @@
                     <label class="form-label">
                         انتخاب نوع مشتری
                     </label>
-                    <select id="personType" class="form-control select2" data-placeholder="Choose one (with optgroup)">
-
-                        <option selected="selected" value="TRU">حقیقی</option>
+                    <select name="personType" class="form-control select2" data-placeholder="Choose one (with optgroup)">
+                        <option value="TRU">حقیقی</option>
                         <option value="LEG">حقوقی</option>
                         <option value="SUB">اتباع</option>
                     </select>
+
                 </div>
 
                 <!-- برای حقیقی -->
@@ -128,46 +139,8 @@
 
                     <div class="col-12 col-md-6">
                         <label class="form-label"> تاریخ تولد</label>
-                        <div class="row gutters-xs">
-                            <div class="col-5">
-                                <select name="user[month]" class="form-control select2 ">
-                                    >
+                        <input class="form-control fc-datepicker" placeholder="MM/DD/YYYY" type="text">
 
-                                    <option selected="selected" value="1">فروردین</option>
-                                    <option value="2">اردیبهشت</option>
-                                    <option value="3">خرداد</option>
-                                    <option value="4">تیر</option>
-                                    <option value="5">مرداد</option>
-                                    <option value="6">شهریور</option>
-                                    <option value="7">مهر</option>
-                                    <option value="8">آبان</option>
-                                    <option value="9">آذر</option>
-                                    <option value="10">دی</option>
-                                    <option value="11">بهمن</option>
-                                    <option value="12">اسفند</option>
-                                </select>
-                            </div>
-                            <div class="col-3">
-                                <select name="user[day]" class="form-control select2 ">
-                                    >
-
-
-                                    @for (int day = 1; day < 32; day++)
-                                    {
-                                        <option value="@day">@day</option>
-                                    }
-                                </select>
-                            </div>
-                            <div class="col-4">
-                                <select name="user[year]" class="form-control select2 ">
-                                    >
-                                    @for (int year = 1300; year < 1401; year++)
-                                    {
-                                        <option value="@year">@year</option>
-                                    }
-                                </select>
-                            </div>
-                        </div>
                     </div>
 
                     <div class="col-12 col-md-6">
@@ -308,11 +281,40 @@
 
 
 @section Scripts {
-    <script src="~/js/jquery-steps/modernizr-2.6.2.min.js" asp-append-version="true"></script>
-    <script src="~/js/jquery-steps/jquery-1.9.1.min.js" asp-append-version="true"></script>
-    <script src="~/js/jquery-steps/jquery.cookie-1.3.1.js" asp-append-version="true"></script>
-    <script src="~/js/jquery-steps/jquery.steps.js" asp-append-version="true"></script>
-    <script>
+    @*<script src="~/js/jquery-steps/modernizr-2.6.2.min.js"   ></script>
+    <script src="~/js/jquery-steps/jquery-1.9.1.min.js"   ></script>
+    <script src="~/js/jquery-steps/jquery.cookie-1.3.1.js"   ></script>
+    <script src="~/js/jquery-steps/jquery.steps.js"   ></script>
+*@
+
+
+
+
+
+
+
+
+
+
+    <!-- BOOTSTRAP-DATERANGEPICKER JS -->
+    <script src="~/plugins/bootstrap-daterangepicker/moment.min.js" asp-append-version="true"></script>
+    <script src="~/plugins/bootstrap-daterangepicker/daterangepicker.js" asp-append-version="true"></script>
+
+    <!-- TIMEPICKER JS -->
+    <script src="~/plugins/time-picker/jquery.timepicker.js" asp-append-version="true"></script>
+    <script src="~/plugins/time-picker/toggles.min.js" asp-append-version="true"></script>
+
+    <!-- DATEPICKER JS -->
+    <script src="~/plugins/input-mask/jquery.maskedinput.js" asp-append-version="true"></script>
+
+
+    <!-- FORMELEMENTS JS -->
+    <script src="~/js/form-elements.js" asp-append-version="true"></script>
+
+
+
+
+    @*  <script>
         $(function () {
             $("#wizard").steps({
                 headerTag: "h2",
@@ -320,6 +322,22 @@
                 transitionEffect: "slideLeft"
             });
         });
-    </script>
+    </script>*@
 
+
+    @* <script src="~/js/jquery-3.4.1.min.js"  ></script>*@
+    @*    <script>
+
+        var s = document.getElementsByName('personType')[0];
+
+        s.addEventListener("change", changeOrg);
+
+        function changeOrg() {
+            var value = s.options[s.selectedIndex].value;
+            console.log(value);
+        }
+
+        //on page load
+        changeOrg();
+    </script>*@
 }
