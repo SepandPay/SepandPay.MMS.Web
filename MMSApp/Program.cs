@@ -32,3 +32,6 @@ app.MapControllerRoute(
     pattern: "{controller=CustomerCreation}/{action=Index}/{id?}");
 
 app.Run();
+
+
+//http://techlaboratory.net/jquery-smartwizard
