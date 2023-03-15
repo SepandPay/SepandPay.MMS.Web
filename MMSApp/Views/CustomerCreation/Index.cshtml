@@ -137,7 +137,7 @@
 
                     <div class="col-12 col-md-6">
                         <label class="form-label"> تاریخ تولد</label>
-                        <input class="form-control fc-datepicker initial-value-type-gregorian-example" placeholder="MM/DD/YYYY" type="text">
+                        <input class="form-control fc-datepicker" placeholder="MM/DD/YYYY" type="text">
 
                     </div>
 
@@ -275,13 +275,7 @@
         //on page load
         changeOrg();
     </script>
-    <script src="~/plugins/persian-date/persian.date.js"></script>
-    <script src="~/plugins/persian-date/persian.datepicker.js"></script>
-    <script>
-        $('.initial-value-type-gregorian-example').persianDatepicker({
-            initialValueType: 'gregorian'
-        });
-    </script>
+
 
     <!-- BOOTSTRAP-DATERANGEPICKER JS -->
     <script src="~/plugins/bootstrap-daterangepicker/moment.min.js" asp-append-version="true"></script>
