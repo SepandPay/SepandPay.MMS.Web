@@ -4,6 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+using System.Configuration;
 using Microsoft.EntityFrameworkCore;
 
 namespace MMSApp.Models;
@@ -121,6 +122,7 @@ public partial class Person
 
     public DateTime? UpdateTime { get; set; }
 
+    [Display(Name = "نوع مشتری")]
     public long PersonTypeId { get; set; }
 
     [ForeignKey("BirthCertificateAlphabiticNoId")]
