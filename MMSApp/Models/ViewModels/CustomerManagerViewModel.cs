@@ -9,6 +9,7 @@ namespace MMSApp.Models.ViewModels
 
         }
         public List<Country> Countries { get; set; }
-        public SelectList CountryCombo { get; set; }
+        public List<Degree> Degrees { get; set; }
+
     }
 }

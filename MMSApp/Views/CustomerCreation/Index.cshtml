@@ -1,8 +1,9 @@
-﻿@model MMSApp.Models.ViewModels.CustomerManagerViewModel
+﻿@model MMSApp.Models.ViewModels.FullCustomerViewModel
 
 @{
     ViewData["Title"] = "Index";
     Layout = "~/Views/Shared/_Layout.cshtml";
+    
 }
 
 @section Styles {
@@ -26,8 +27,6 @@
     </style>
 }
 
-@*@Html.DropDownList("Countries", (IEnumerable
-        <SelectListItem>)Model.Countries);*@
 
 
 
@@ -67,9 +66,9 @@
                             <label class="form-label">ملیت</label>
                             <select name="country" id="select-countries" class="form-control select2">
                                 >
-                                @foreach (var country in Model.Countries)
+                                @foreach (var country in ViewBag.countries)
                                 {
-                                    <option value="@country">@country.PersianName</option>
+                                    <option value="@country.Id">@country.PersianName</option>
                                 }
 
                             </select>
@@ -165,13 +164,17 @@
                         <label class="form-label">مدرک تحصیلی</label>
                         <select name="country" id="select-countries" class="form-control select2 ">
                             >
-                            <option value="دکتری">دکتری</option>
+                            @* <option value="دکتری">دکتری</option>
                             <option value="دیپلم">دیپلم</option>
                             <option value="زیر دیپلم">زیر دیپلم</option>
                             <option value="کاردانی">کاردانی</option>
                             <option value="کارشناسی">کارشناسی</option>
-                            <option value="کارشناسی">کارشناسی ارشد</option>
+                            <option value="کارشناسی">کارشناسی ارشد</option>*@
 
+                            @foreach (var degree in ViewBag.degrees)
+                            {
+                                <option value="@degree.Id">@degree.Name</option>
+                            }
                         </select>
                     </div>
 

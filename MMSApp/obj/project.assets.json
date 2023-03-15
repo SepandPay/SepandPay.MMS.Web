@@ -12562,23 +12562,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Mohammad\\.nuget\\packages\\": {},
+    "C:\\Users\\Ali\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mohammad\\source\\repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\MMSApp.csproj",
+      "projectUniqueName": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\MMSApp.csproj",
       "projectName": "MMSApp",
-      "projectPath": "C:\\Users\\Mohammad\\source\\repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\MMSApp.csproj",
-      "packagesPath": "C:\\Users\\Mohammad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mohammad\\source\\repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\obj\\",
+      "projectPath": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\MMSApp.csproj",
+      "packagesPath": "C:\\Users\\Ali\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Mohammad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Ali\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -12587,16 +12587,14 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
-        "C:\\Users\\Mohammad\\Downloads": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Mohammad\\source\\repos\\SepandPay\\SepandPay.MMS.Web\\MMSModel\\MMSModel.csproj": {
-              "projectPath": "C:\\Users\\Mohammad\\source\\repos\\SepandPay\\SepandPay.MMS.Web\\MMSModel\\MMSModel.csproj"
+            "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSModel\\MMSModel.csproj": {
+              "projectPath": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSModel\\MMSModel.csproj"
             }
           }
         }
@@ -12657,7 +12655,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

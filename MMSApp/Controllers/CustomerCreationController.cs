@@ -18,15 +18,18 @@ namespace MMSApp.Controllers
         // GET: CustomerCreationController
         public ActionResult Index()
         {
-            var obj = new CustomerManagerViewModel
-            {
-                Countries = _context.Countries.ToList()
-            };
+            var mymodel = new FullCustomerViewModel();
+            //var obj = new CustomerManagerViewModel
+            //{
+            //    Countries = _context.Countries.ToList(),
+            //    Degrees= _context.Degrees.ToList(),
+            //};
 
-            var fromDatabaseEF = new SelectList(_context.Countries.ToList(), "Id", "PersianName");
-            obj.CountryCombo = fromDatabaseEF;
 
-            return View(obj);
+            ViewBag.countries = _context.Countries.ToList();
+            ViewBag.degrees = _context.Degrees.ToList();
+
+            return View(mymodel);
         }
 
         // GET: CustomerCreationController/Details/5

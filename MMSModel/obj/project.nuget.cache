@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1PCvKvEczSSgeZA8e2dA9m+h0A7moWdnmk3trYtjcubMZZElTNX0Bhmgnwbk0pEGsxHQkCccCOuWanQBFOVvqA==",
+  "dgSpecHash": "YpN2Pj43xVORimDurtuHFbJCCUj1ZIabUykEfxL6CA1mw9NQniltK/906PP6FeGNzO1fEnWHCAkxSDJuVrlueg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mohammad\\source\\repos\\SepandPay\\SepandPay.MMS.Web\\MMSModel\\MMSModel.csproj",
+  "projectFilePath": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSModel\\MMSModel.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
