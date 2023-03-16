@@ -22,25 +22,26 @@
             <div class="card-header">
                 <h3 class="card-title">پنل اطلاعات شخصی</h3>
             </div>
-            <div class="card-body ">
+            <div class="card-body">
                 <div class="form-group">
                     <label asp-for="MainPerson.PersonTypeId" class="form-label"></label>
-                    <select asp-for="MainPerson.PersonTypeId" name="personType" class="form-control select2" data-placeholder="Choose one (with optgroup)">
-                        <option value="TRU">حقیقی</option>
-                        <option value="LEG">حقوقی</option>
-                        <option value="SUB">اتباع</option>
+                    <select asp-for="MainPerson.PersonTypeId" class="form-control select2 person_type">
+                        <option selected="selected" value="1">حقیقی</option>
+                        <option value="2">حقوقی</option>
+                        <option value="3">اتباع</option>
                     </select>
                 </div>
 
 
                 <!-- برای حقیقی -->
-                <partial name="PartialViews/TruePerson" model="Model.MainPerson" />
-
+                <div id="myTag">
+                    <partial name="PartialViews/TruePerson" model="Model.MainPerson" />
+                </div>
                 <!-- برای حقوقی -->
-                <div class="row"></div>
+                @* <partial name="PartialViews/LegalPerson" model="Model.MainPerson" />
 
                 <!-- برای اتباع -->
-                <div class="row"></div>
+                <div class="row"></div>*@
 
             </div>
         </form>
@@ -53,19 +54,31 @@
 
 
 @section Scripts {
+
     <script>
 
-        var s = document.getElementsByName('personType')[0];
+        $(document).ready(function () {
 
-        s.addEventListener("change", changeOrg);
 
-        function changeOrg() {
-            var value = s.options[s.selectedIndex].value;
-            console.log(value);
-        }
 
-        //on page load
-        changeOrg();
+
+            $("select.person_type").change(function () {
+                const truePersonPage = `<partial name="PartialViews/TruePerson" model="Model.MainPerson" / >`;
+                const legalPersonPage = `<partial name="PartialViews/LegalPerson" model="Model.MainPerson" / >`;
+                const subPersonPage = `<partial name="PartialViews/SubjectPerson" model="Model.MainPerson" / >`;
+                var selectedPersonType = $(this).children("option:selected").val();
+
+                if (selectedPersonType === "1") {
+                    $('#myTag').replaceWith(truePersonPage);
+                }
+                else if (selectedPersonType === "2") {
+
+                } else {
+
+                }
+
+            });
+        });
     </script>
 
 
