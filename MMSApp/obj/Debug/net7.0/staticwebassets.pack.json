@@ -1,1423 +1,1423 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MMSApp.bundle.scp.css",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MMSApp.bundle.scp.css",
       "PackagePath": "staticwebassets\\MMSApp.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\colors\\color1.css",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\colors\\color1.css",
       "PackagePath": "staticwebassets\\colors\\color1.css"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\css-rtl\\icons.css",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\css-rtl\\icons.css",
       "PackagePath": "staticwebassets\\css-rtl\\icons.css"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\css-rtl\\multiple-select.html",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\css-rtl\\multiple-select.html",
       "PackagePath": "staticwebassets\\css-rtl\\multiple-select.html"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\css-rtl\\sidemenu.css",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\css-rtl\\sidemenu.css",
       "PackagePath": "staticwebassets\\css-rtl\\sidemenu.css"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\css-rtl\\skin-modes.css",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\css-rtl\\skin-modes.css",
       "PackagePath": "staticwebassets\\css-rtl\\skin-modes.css"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\css-rtl\\style.css",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\css-rtl\\style.css",
       "PackagePath": "staticwebassets\\css-rtl\\style.css"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\fonts\\iransans\\iransans(FaNum)_Medium.eot",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\fonts\\iransans\\iransans(FaNum)_Medium.eot",
       "PackagePath": "staticwebassets\\fonts\\iransans\\iransans(FaNum)_Medium.eot"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\fonts\\iransans\\iransansWeb(FaNum).eot",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\fonts\\iransans\\iransansWeb(FaNum).eot",
       "PackagePath": "staticwebassets\\fonts\\iransans\\iransansWeb(FaNum).eot"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\fonts\\iransans\\iransansWeb(FaNum).ttf",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\fonts\\iransans\\iransansWeb(FaNum).ttf",
       "PackagePath": "staticwebassets\\fonts\\iransans\\iransansWeb(FaNum).ttf"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\fonts\\iransans\\iransansWeb(FaNum).woff",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\fonts\\iransans\\iransansWeb(FaNum).woff",
       "PackagePath": "staticwebassets\\fonts\\iransans\\iransansWeb(FaNum).woff"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\fonts\\iransans\\iransansWeb(FaNum).woff2",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\fonts\\iransans\\iransansWeb(FaNum).woff2",
       "PackagePath": "staticwebassets\\fonts\\iransans\\iransansWeb(FaNum).woff2"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\fonts\\iransans\\iransansWeb(FaNum)_Bold.eot",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\fonts\\iransans\\iransansWeb(FaNum)_Bold.eot",
       "PackagePath": "staticwebassets\\fonts\\iransans\\iransansWeb(FaNum)_Bold.eot"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\fonts\\iransans\\iransansWeb(FaNum)_Bold.ttf",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\fonts\\iransans\\iransansWeb(FaNum)_Bold.ttf",
       "PackagePath": "staticwebassets\\fonts\\iransans\\iransansWeb(FaNum)_Bold.ttf"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\fonts\\iransans\\iransansWeb(FaNum)_Bold.woff",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\fonts\\iransans\\iransansWeb(FaNum)_Bold.woff",
       "PackagePath": "staticwebassets\\fonts\\iransans\\iransansWeb(FaNum)_Bold.woff"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\fonts\\iransans\\iransansWeb(FaNum)_Bold.woff2",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\fonts\\iransans\\iransansWeb(FaNum)_Bold.woff2",
       "PackagePath": "staticwebassets\\fonts\\iransans\\iransansWeb(FaNum)_Bold.woff2"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\fonts\\iransans\\iransansWeb(FaNum)_Light.eot",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\fonts\\iransans\\iransansWeb(FaNum)_Light.eot",
       "PackagePath": "staticwebassets\\fonts\\iransans\\iransansWeb(FaNum)_Light.eot"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\fonts\\iransans\\iransansWeb(FaNum)_Light.ttf",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\fonts\\iransans\\iransansWeb(FaNum)_Light.ttf",
       "PackagePath": "staticwebassets\\fonts\\iransans\\iransansWeb(FaNum)_Light.ttf"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\fonts\\iransans\\iransansWeb(FaNum)_Light.woff",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\fonts\\iransans\\iransansWeb(FaNum)_Light.woff",
       "PackagePath": "staticwebassets\\fonts\\iransans\\iransansWeb(FaNum)_Light.woff"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\fonts\\iransans\\iransansWeb(FaNum)_Light.woff2",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\fonts\\iransans\\iransansWeb(FaNum)_Light.woff2",
       "PackagePath": "staticwebassets\\fonts\\iransans\\iransansWeb(FaNum)_Light.woff2"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\fonts\\iransans\\iransansWeb(FaNum)_Medium.eot",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\fonts\\iransans\\iransansWeb(FaNum)_Medium.eot",
       "PackagePath": "staticwebassets\\fonts\\iransans\\iransansWeb(FaNum)_Medium.eot"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\fonts\\iransans\\iransansWeb(FaNum)_Medium.ttf",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\fonts\\iransans\\iransansWeb(FaNum)_Medium.ttf",
       "PackagePath": "staticwebassets\\fonts\\iransans\\iransansWeb(FaNum)_Medium.ttf"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\fonts\\iransans\\iransansWeb(FaNum)_Medium.woff",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\fonts\\iransans\\iransansWeb(FaNum)_Medium.woff",
       "PackagePath": "staticwebassets\\fonts\\iransans\\iransansWeb(FaNum)_Medium.woff"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\fonts\\iransans\\iransansWeb(FaNum)_Medium.woff2",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\fonts\\iransans\\iransansWeb(FaNum)_Medium.woff2",
       "PackagePath": "staticwebassets\\fonts\\iransans\\iransansWeb(FaNum)_Medium.woff2"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\fonts\\iransans\\iransansWeb(FaNum)_UltraLight.eot",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\fonts\\iransans\\iransansWeb(FaNum)_UltraLight.eot",
       "PackagePath": "staticwebassets\\fonts\\iransans\\iransansWeb(FaNum)_UltraLight.eot"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\fonts\\iransans\\iransansWeb(FaNum)_UltraLight.ttf",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\fonts\\iransans\\iransansWeb(FaNum)_UltraLight.ttf",
       "PackagePath": "staticwebassets\\fonts\\iransans\\iransansWeb(FaNum)_UltraLight.ttf"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\fonts\\iransans\\iransansWeb(FaNum)_UltraLight.woff",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\fonts\\iransans\\iransansWeb(FaNum)_UltraLight.woff",
       "PackagePath": "staticwebassets\\fonts\\iransans\\iransansWeb(FaNum)_UltraLight.woff"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\fonts\\iransans\\iransansWeb(FaNum)_UltraLight.woff2",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\fonts\\iransans\\iransansWeb(FaNum)_UltraLight.woff2",
       "PackagePath": "staticwebassets\\fonts\\iransans\\iransansWeb(FaNum)_UltraLight.woff2"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\feather\\feather.css",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\feather\\feather.css",
       "PackagePath": "staticwebassets\\iconfonts\\feather\\feather.css"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\feather\\fonts\\feather-webfont6cfa.eot",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\feather\\fonts\\feather-webfont6cfa.eot",
       "PackagePath": "staticwebassets\\iconfonts\\feather\\fonts\\feather-webfont6cfa.eot"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\feather\\fonts\\feather-webfont6cfa.svg",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\feather\\fonts\\feather-webfont6cfa.svg",
       "PackagePath": "staticwebassets\\iconfonts\\feather\\fonts\\feather-webfont6cfa.svg"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\feather\\fonts\\feather-webfont6cfa.ttf",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\feather\\fonts\\feather-webfont6cfa.ttf",
       "PackagePath": "staticwebassets\\iconfonts\\feather\\fonts\\feather-webfont6cfa.ttf"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\feather\\fonts\\feather-webfont6cfa.woff",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\feather\\fonts\\feather-webfont6cfa.woff",
       "PackagePath": "staticwebassets\\iconfonts\\feather\\fonts\\feather-webfont6cfa.woff"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\font-awesome\\all.min.css",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\font-awesome\\all.min.css",
       "PackagePath": "staticwebassets\\iconfonts\\font-awesome\\all.min.css"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\font-awesome\\css\\font-awesome.min.css",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\font-awesome\\css\\font-awesome.min.css",
       "PackagePath": "staticwebassets\\iconfonts\\font-awesome\\css\\font-awesome.min.css"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\font-awesome\\fontawesome-webfont.eot",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\font-awesome\\fontawesome-webfont.eot",
       "PackagePath": "staticwebassets\\iconfonts\\font-awesome\\fontawesome-webfont.eot"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\font-awesome\\fontawesome-webfont.svg",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\font-awesome\\fontawesome-webfont.svg",
       "PackagePath": "staticwebassets\\iconfonts\\font-awesome\\fontawesome-webfont.svg"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\font-awesome\\fontawesome-webfont.ttf",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\font-awesome\\fontawesome-webfont.ttf",
       "PackagePath": "staticwebassets\\iconfonts\\font-awesome\\fontawesome-webfont.ttf"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\font-awesome\\fontawesome-webfont.woff2",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\font-awesome\\fontawesome-webfont.woff2",
       "PackagePath": "staticwebassets\\iconfonts\\font-awesome\\fontawesome-webfont.woff2"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\glyphicons\\fonts\\glyphicons-halflings-regular.eot",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\glyphicons\\fonts\\glyphicons-halflings-regular.eot",
       "PackagePath": "staticwebassets\\iconfonts\\glyphicons\\fonts\\glyphicons-halflings-regular.eot"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\glyphicons\\fonts\\glyphicons-halflings-regular.svg",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\glyphicons\\fonts\\glyphicons-halflings-regular.svg",
       "PackagePath": "staticwebassets\\iconfonts\\glyphicons\\fonts\\glyphicons-halflings-regular.svg"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\glyphicons\\fonts\\glyphicons-halflings-regular.ttf",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\glyphicons\\fonts\\glyphicons-halflings-regular.ttf",
       "PackagePath": "staticwebassets\\iconfonts\\glyphicons\\fonts\\glyphicons-halflings-regular.ttf"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\glyphicons\\fonts\\glyphicons-halflings-regular.woff",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\glyphicons\\fonts\\glyphicons-halflings-regular.woff",
       "PackagePath": "staticwebassets\\iconfonts\\glyphicons\\fonts\\glyphicons-halflings-regular.woff"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\glyphicons\\fonts\\glyphicons-halflings-regular.woff2",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\glyphicons\\fonts\\glyphicons-halflings-regular.woff2",
       "PackagePath": "staticwebassets\\iconfonts\\glyphicons\\fonts\\glyphicons-halflings-regular.woff2"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\glyphicons\\fonts\\glyphicons-halflings-regulard41d.eot",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\glyphicons\\fonts\\glyphicons-halflings-regulard41d.eot",
       "PackagePath": "staticwebassets\\iconfonts\\glyphicons\\fonts\\glyphicons-halflings-regulard41d.eot"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\glyphicons\\glyphicon.css",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\glyphicons\\glyphicon.css",
       "PackagePath": "staticwebassets\\iconfonts\\glyphicons\\glyphicon.css"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\ionicons\\fonts\\ioniconsaa26.eot",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\ionicons\\fonts\\ioniconsaa26.eot",
       "PackagePath": "staticwebassets\\iconfonts\\ionicons\\fonts\\ioniconsaa26.eot"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\ionicons\\fonts\\ioniconsaa26.svg",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\ionicons\\fonts\\ioniconsaa26.svg",
       "PackagePath": "staticwebassets\\iconfonts\\ionicons\\fonts\\ioniconsaa26.svg"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\ionicons\\fonts\\ioniconsaa26.ttf",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\ionicons\\fonts\\ioniconsaa26.ttf",
       "PackagePath": "staticwebassets\\iconfonts\\ionicons\\fonts\\ioniconsaa26.ttf"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\ionicons\\fonts\\ioniconsaa26.woff",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\ionicons\\fonts\\ioniconsaa26.woff",
       "PackagePath": "staticwebassets\\iconfonts\\ionicons\\fonts\\ioniconsaa26.woff"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\ionicons\\ionicons.css",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\ionicons\\ionicons.css",
       "PackagePath": "staticwebassets\\iconfonts\\ionicons\\ionicons.css"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\linearicons\\Linearicons.css",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\linearicons\\Linearicons.css",
       "PackagePath": "staticwebassets\\iconfonts\\linearicons\\Linearicons.css"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\linearicons\\fonts\\Linearicons-Free54e9.eot",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\linearicons\\fonts\\Linearicons-Free54e9.eot",
       "PackagePath": "staticwebassets\\iconfonts\\linearicons\\fonts\\Linearicons-Free54e9.eot"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\linearicons\\fonts\\Linearicons-Free54e9.svg",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\linearicons\\fonts\\Linearicons-Free54e9.svg",
       "PackagePath": "staticwebassets\\iconfonts\\linearicons\\fonts\\Linearicons-Free54e9.svg"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\linearicons\\fonts\\Linearicons-Free54e9.ttf",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\linearicons\\fonts\\Linearicons-Free54e9.ttf",
       "PackagePath": "staticwebassets\\iconfonts\\linearicons\\fonts\\Linearicons-Free54e9.ttf"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\linearicons\\fonts\\Linearicons-Free54e9.woff",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\linearicons\\fonts\\Linearicons-Free54e9.woff",
       "PackagePath": "staticwebassets\\iconfonts\\linearicons\\fonts\\Linearicons-Free54e9.woff"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\linearicons\\fonts\\Linearicons-Free54e9.woff2",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\linearicons\\fonts\\Linearicons-Free54e9.woff2",
       "PackagePath": "staticwebassets\\iconfonts\\linearicons\\fonts\\Linearicons-Free54e9.woff2"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\linearicons\\fonts\\Linearicons-Freed41d.eot",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\linearicons\\fonts\\Linearicons-Freed41d.eot",
       "PackagePath": "staticwebassets\\iconfonts\\linearicons\\fonts\\Linearicons-Freed41d.eot"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\materialdesignicons\\fonts\\Material-Design-Iconic-Fontd1f1.ttf",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\materialdesignicons\\fonts\\Material-Design-Iconic-Fontd1f1.ttf",
       "PackagePath": "staticwebassets\\iconfonts\\materialdesignicons\\fonts\\Material-Design-Iconic-Fontd1f1.ttf"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\materialdesignicons\\fonts\\Material-Design-Iconic-Fontd1f1.woff",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\materialdesignicons\\fonts\\Material-Design-Iconic-Fontd1f1.woff",
       "PackagePath": "staticwebassets\\iconfonts\\materialdesignicons\\fonts\\Material-Design-Iconic-Fontd1f1.woff"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\materialdesignicons\\fonts\\Material-Design-Iconic-Fontd1f1.woff2",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\materialdesignicons\\fonts\\Material-Design-Iconic-Fontd1f1.woff2",
       "PackagePath": "staticwebassets\\iconfonts\\materialdesignicons\\fonts\\Material-Design-Iconic-Fontd1f1.woff2"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\materialdesignicons\\fonts\\materialdesignicons-webfontd41d.eot",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\materialdesignicons\\fonts\\materialdesignicons-webfontd41d.eot",
       "PackagePath": "staticwebassets\\iconfonts\\materialdesignicons\\fonts\\materialdesignicons-webfontd41d.eot"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\materialdesignicons\\fonts\\materialdesignicons-webfontdf71.eot",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\materialdesignicons\\fonts\\materialdesignicons-webfontdf71.eot",
       "PackagePath": "staticwebassets\\iconfonts\\materialdesignicons\\fonts\\materialdesignicons-webfontdf71.eot"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\materialdesignicons\\fonts\\materialdesignicons-webfontdf71.woff2",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\materialdesignicons\\fonts\\materialdesignicons-webfontdf71.woff2",
       "PackagePath": "staticwebassets\\iconfonts\\materialdesignicons\\fonts\\materialdesignicons-webfontdf71.woff2"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\materialdesignicons\\fonts\\materialdesignicons\\materialdesignicons-webfontdf71-2.html",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\materialdesignicons\\fonts\\materialdesignicons\\materialdesignicons-webfontdf71-2.html",
       "PackagePath": "staticwebassets\\iconfonts\\materialdesignicons\\fonts\\materialdesignicons\\materialdesignicons-webfontdf71-2.html"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\materialdesignicons\\fonts\\materialdesignicons\\materialdesignicons-webfontdf71-3.html",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\materialdesignicons\\fonts\\materialdesignicons\\materialdesignicons-webfontdf71-3.html",
       "PackagePath": "staticwebassets\\iconfonts\\materialdesignicons\\fonts\\materialdesignicons\\materialdesignicons-webfontdf71-3.html"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\materialdesignicons\\fonts\\materialdesignicons\\materialdesignicons-webfontdf71.html",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\materialdesignicons\\fonts\\materialdesignicons\\materialdesignicons-webfontdf71.html",
       "PackagePath": "staticwebassets\\iconfonts\\materialdesignicons\\fonts\\materialdesignicons\\materialdesignicons-webfontdf71.html"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\materialdesignicons\\materialdesignicons.css",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\materialdesignicons\\materialdesignicons.css",
       "PackagePath": "staticwebassets\\iconfonts\\materialdesignicons\\materialdesignicons.css"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\pe-icon-7-stroke\\Pe-icon-7.css",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\pe-icon-7-stroke\\Pe-icon-7.css",
       "PackagePath": "staticwebassets\\iconfonts\\pe-icon-7-stroke\\Pe-icon-7.css"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.eot",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.eot",
       "PackagePath": "staticwebassets\\iconfonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.eot"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.svg",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.svg",
       "PackagePath": "staticwebassets\\iconfonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.svg"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.ttf",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.ttf",
       "PackagePath": "staticwebassets\\iconfonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.ttf"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.woff",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.woff",
       "PackagePath": "staticwebassets\\iconfonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.woff"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-stroked41d.eot",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-stroked41d.eot",
       "PackagePath": "staticwebassets\\iconfonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-stroked41d.eot"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\simple-line-icons\\fonts\\Simple-Line-Iconsb26c.eot",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\simple-line-icons\\fonts\\Simple-Line-Iconsb26c.eot",
       "PackagePath": "staticwebassets\\iconfonts\\simple-line-icons\\fonts\\Simple-Line-Iconsb26c.eot"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\simple-line-icons\\fonts\\Simple-Line-Iconsb26c.svg",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\simple-line-icons\\fonts\\Simple-Line-Iconsb26c.svg",
       "PackagePath": "staticwebassets\\iconfonts\\simple-line-icons\\fonts\\Simple-Line-Iconsb26c.svg"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\simple-line-icons\\fonts\\Simple-Line-Iconsb26c.ttf",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\simple-line-icons\\fonts\\Simple-Line-Iconsb26c.ttf",
       "PackagePath": "staticwebassets\\iconfonts\\simple-line-icons\\fonts\\Simple-Line-Iconsb26c.ttf"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\simple-line-icons\\fonts\\Simple-Line-Iconsb26c.woff",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\simple-line-icons\\fonts\\Simple-Line-Iconsb26c.woff",
       "PackagePath": "staticwebassets\\iconfonts\\simple-line-icons\\fonts\\Simple-Line-Iconsb26c.woff"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\simple-line-icons\\fonts\\Simple-Line-Iconsb26c.woff2",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\simple-line-icons\\fonts\\Simple-Line-Iconsb26c.woff2",
       "PackagePath": "staticwebassets\\iconfonts\\simple-line-icons\\fonts\\Simple-Line-Iconsb26c.woff2"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\simple-line-icons\\simple-line-icons.css",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\simple-line-icons\\simple-line-icons.css",
       "PackagePath": "staticwebassets\\iconfonts\\simple-line-icons\\simple-line-icons.css"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\themify\\fonts\\themify9f24.eot",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\themify\\fonts\\themify9f24.eot",
       "PackagePath": "staticwebassets\\iconfonts\\themify\\fonts\\themify9f24.eot"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\themify\\fonts\\themify9f24.svg",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\themify\\fonts\\themify9f24.svg",
       "PackagePath": "staticwebassets\\iconfonts\\themify\\fonts\\themify9f24.svg"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\themify\\fonts\\themify9f24.ttf",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\themify\\fonts\\themify9f24.ttf",
       "PackagePath": "staticwebassets\\iconfonts\\themify\\fonts\\themify9f24.ttf"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\themify\\fonts\\themify9f24.woff",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\themify\\fonts\\themify9f24.woff",
       "PackagePath": "staticwebassets\\iconfonts\\themify\\fonts\\themify9f24.woff"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\themify\\fonts\\themifyd41d.eot",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\themify\\fonts\\themifyd41d.eot",
       "PackagePath": "staticwebassets\\iconfonts\\themify\\fonts\\themifyd41d.eot"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\themify\\themify.css",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\themify\\themify.css",
       "PackagePath": "staticwebassets\\iconfonts\\themify\\themify.css"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\typicons\\fonts\\typicons.eot",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\typicons\\fonts\\typicons.eot",
       "PackagePath": "staticwebassets\\iconfonts\\typicons\\fonts\\typicons.eot"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\typicons\\fonts\\typicons.svg",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\typicons\\fonts\\typicons.svg",
       "PackagePath": "staticwebassets\\iconfonts\\typicons\\fonts\\typicons.svg"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\typicons\\fonts\\typicons.ttf",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\typicons\\fonts\\typicons.ttf",
       "PackagePath": "staticwebassets\\iconfonts\\typicons\\fonts\\typicons.ttf"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\typicons\\fonts\\typicons.woff",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\typicons\\fonts\\typicons.woff",
       "PackagePath": "staticwebassets\\iconfonts\\typicons\\fonts\\typicons.woff"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\typicons\\fonts\\typiconsd41d.eot",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\typicons\\fonts\\typiconsd41d.eot",
       "PackagePath": "staticwebassets\\iconfonts\\typicons\\fonts\\typiconsd41d.eot"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\typicons\\typicons.css",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\typicons\\typicons.css",
       "PackagePath": "staticwebassets\\iconfonts\\typicons\\typicons.css"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\weathericons\\fonts\\weathericons-regular-webfont.eot",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\weathericons\\fonts\\weathericons-regular-webfont.eot",
       "PackagePath": "staticwebassets\\iconfonts\\weathericons\\fonts\\weathericons-regular-webfont.eot"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\weathericons\\fonts\\weathericons-regular-webfont.svg",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\weathericons\\fonts\\weathericons-regular-webfont.svg",
       "PackagePath": "staticwebassets\\iconfonts\\weathericons\\fonts\\weathericons-regular-webfont.svg"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\weathericons\\fonts\\weathericons-regular-webfont.ttf",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\weathericons\\fonts\\weathericons-regular-webfont.ttf",
       "PackagePath": "staticwebassets\\iconfonts\\weathericons\\fonts\\weathericons-regular-webfont.ttf"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\weathericons\\fonts\\weathericons-regular-webfont.woff",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\weathericons\\fonts\\weathericons-regular-webfont.woff",
       "PackagePath": "staticwebassets\\iconfonts\\weathericons\\fonts\\weathericons-regular-webfont.woff"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\weathericons\\fonts\\weathericons-regular-webfont.woff2",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\weathericons\\fonts\\weathericons-regular-webfont.woff2",
       "PackagePath": "staticwebassets\\iconfonts\\weathericons\\fonts\\weathericons-regular-webfont.woff2"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\weathericons\\fonts\\weathericons-regular-webfontd41d.eot",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\weathericons\\fonts\\weathericons-regular-webfontd41d.eot",
       "PackagePath": "staticwebassets\\iconfonts\\weathericons\\fonts\\weathericons-regular-webfontd41d.eot"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\weathericons\\weathericons.css",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\iconfonts\\weathericons\\weathericons.css",
       "PackagePath": "staticwebassets\\iconfonts\\weathericons\\weathericons.css"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\about4.html",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\about4.html",
       "PackagePath": "staticwebassets\\images\\about4.html"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\brand\\logo-1.png",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\brand\\logo-1.png",
       "PackagePath": "staticwebassets\\images\\brand\\logo-1.png"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\brand\\logo-white.png",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\brand\\logo-white.png",
       "PackagePath": "staticwebassets\\images\\brand\\logo-white.png"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\brand\\logo.png",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\brand\\logo.png",
       "PackagePath": "staticwebassets\\images\\brand\\logo.png"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\construction.html",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\construction.html",
       "PackagePath": "staticwebassets\\images\\construction.html"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\media\\1.jpg",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\media\\1.jpg",
       "PackagePath": "staticwebassets\\images\\media\\1.jpg"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\media\\10.jpg",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\media\\10.jpg",
       "PackagePath": "staticwebassets\\images\\media\\10.jpg"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\media\\11.jpg",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\media\\11.jpg",
       "PackagePath": "staticwebassets\\images\\media\\11.jpg"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\media\\12.jpg",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\media\\12.jpg",
       "PackagePath": "staticwebassets\\images\\media\\12.jpg"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\media\\13.jpg",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\media\\13.jpg",
       "PackagePath": "staticwebassets\\images\\media\\13.jpg"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\media\\14.jpg",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\media\\14.jpg",
       "PackagePath": "staticwebassets\\images\\media\\14.jpg"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\media\\15.jpg",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\media\\15.jpg",
       "PackagePath": "staticwebassets\\images\\media\\15.jpg"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\media\\16.jpg",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\media\\16.jpg",
       "PackagePath": "staticwebassets\\images\\media\\16.jpg"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\media\\17.jpg",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\media\\17.jpg",
       "PackagePath": "staticwebassets\\images\\media\\17.jpg"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\media\\18.jpg",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\media\\18.jpg",
       "PackagePath": "staticwebassets\\images\\media\\18.jpg"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\media\\19.jpg",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\media\\19.jpg",
       "PackagePath": "staticwebassets\\images\\media\\19.jpg"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\media\\2.jpg",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\media\\2.jpg",
       "PackagePath": "staticwebassets\\images\\media\\2.jpg"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\media\\20.jpg",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\media\\20.jpg",
       "PackagePath": "staticwebassets\\images\\media\\20.jpg"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\media\\21.jpg",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\media\\21.jpg",
       "PackagePath": "staticwebassets\\images\\media\\21.jpg"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\media\\22.jpg",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\media\\22.jpg",
       "PackagePath": "staticwebassets\\images\\media\\22.jpg"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\media\\23.jpg",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\media\\23.jpg",
       "PackagePath": "staticwebassets\\images\\media\\23.jpg"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\media\\24.jpg",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\media\\24.jpg",
       "PackagePath": "staticwebassets\\images\\media\\24.jpg"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\media\\25.jpg",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\media\\25.jpg",
       "PackagePath": "staticwebassets\\images\\media\\25.jpg"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\media\\3.jpg",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\media\\3.jpg",
       "PackagePath": "staticwebassets\\images\\media\\3.jpg"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\media\\4.jpg",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\media\\4.jpg",
       "PackagePath": "staticwebassets\\images\\media\\4.jpg"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\media\\5.jpg",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\media\\5.jpg",
       "PackagePath": "staticwebassets\\images\\media\\5.jpg"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\media\\6.jpg",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\media\\6.jpg",
       "PackagePath": "staticwebassets\\images\\media\\6.jpg"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\media\\7.jpg",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\media\\7.jpg",
       "PackagePath": "staticwebassets\\images\\media\\7.jpg"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\media\\8.jpg",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\media\\8.jpg",
       "PackagePath": "staticwebassets\\images\\media\\8.jpg"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\media\\9.jpg",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\media\\9.jpg",
       "PackagePath": "staticwebassets\\images\\media\\9.jpg"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\media\\blue.jpg",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\media\\blue.jpg",
       "PackagePath": "staticwebassets\\images\\media\\blue.jpg"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\media\\gradient1.jpg",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\media\\gradient1.jpg",
       "PackagePath": "staticwebassets\\images\\media\\gradient1.jpg"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\media\\gradient2.jpg",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\media\\gradient2.jpg",
       "PackagePath": "staticwebassets\\images\\media\\gradient2.jpg"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\media\\gradient3.jpg",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\media\\gradient3.jpg",
       "PackagePath": "staticwebassets\\images\\media\\gradient3.jpg"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\media\\green.jpg",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\media\\green.jpg",
       "PackagePath": "staticwebassets\\images\\media\\green.jpg"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\media\\media1.jpg",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\media\\media1.jpg",
       "PackagePath": "staticwebassets\\images\\media\\media1.jpg"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\media\\media2.jpg",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\media\\media2.jpg",
       "PackagePath": "staticwebassets\\images\\media\\media2.jpg"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\media\\media3.jpg",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\media\\media3.jpg",
       "PackagePath": "staticwebassets\\images\\media\\media3.jpg"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\media\\media4.jpg",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\media\\media4.jpg",
       "PackagePath": "staticwebassets\\images\\media\\media4.jpg"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\media\\media5.jpg",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\media\\media5.jpg",
       "PackagePath": "staticwebassets\\images\\media\\media5.jpg"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\media\\red.jpg",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\media\\red.jpg",
       "PackagePath": "staticwebassets\\images\\media\\red.jpg"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\media\\seigaiha.png",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\media\\seigaiha.png",
       "PackagePath": "staticwebassets\\images\\media\\seigaiha.png"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\media\\thumbnails\\thumb2.jpg",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\media\\thumbnails\\thumb2.jpg",
       "PackagePath": "staticwebassets\\images\\media\\thumbnails\\thumb2.jpg"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\media\\thumbnails\\thumb3.jpg",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\media\\thumbnails\\thumb3.jpg",
       "PackagePath": "staticwebassets\\images\\media\\thumbnails\\thumb3.jpg"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\pngs\\1.png",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\pngs\\1.png",
       "PackagePath": "staticwebassets\\images\\pngs\\1.png"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\pngs\\2.png",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\pngs\\2.png",
       "PackagePath": "staticwebassets\\images\\pngs\\2.png"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\pngs\\3.png",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\pngs\\3.png",
       "PackagePath": "staticwebassets\\images\\pngs\\3.png"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\pngs\\4.png",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\pngs\\4.png",
       "PackagePath": "staticwebassets\\images\\pngs\\4.png"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\pngs\\5.png",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\pngs\\5.png",
       "PackagePath": "staticwebassets\\images\\pngs\\5.png"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\pngs\\6.png",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\pngs\\6.png",
       "PackagePath": "staticwebassets\\images\\pngs\\6.png"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\pngs\\7.png",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\pngs\\7.png",
       "PackagePath": "staticwebassets\\images\\pngs\\7.png"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\pngs\\8.png",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\pngs\\8.png",
       "PackagePath": "staticwebassets\\images\\pngs\\8.png"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\pngs\\9.png",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\pngs\\9.png",
       "PackagePath": "staticwebassets\\images\\pngs\\9.png"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\pngs\\bg-2.html",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\pngs\\bg-2.html",
       "PackagePath": "staticwebassets\\images\\pngs\\bg-2.html"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\users\\1.jpg",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\users\\1.jpg",
       "PackagePath": "staticwebassets\\images\\users\\1.jpg"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\users\\10.jpg",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\users\\10.jpg",
       "PackagePath": "staticwebassets\\images\\users\\10.jpg"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\users\\11.jpg",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\users\\11.jpg",
       "PackagePath": "staticwebassets\\images\\users\\11.jpg"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\users\\12.jpg",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\users\\12.jpg",
       "PackagePath": "staticwebassets\\images\\users\\12.jpg"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\users\\13.jpg",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\users\\13.jpg",
       "PackagePath": "staticwebassets\\images\\users\\13.jpg"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\users\\14.jpg",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\users\\14.jpg",
       "PackagePath": "staticwebassets\\images\\users\\14.jpg"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\users\\15.jpg",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\users\\15.jpg",
       "PackagePath": "staticwebassets\\images\\users\\15.jpg"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\users\\16.jpg",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\users\\16.jpg",
       "PackagePath": "staticwebassets\\images\\users\\16.jpg"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\users\\17.jpg",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\users\\17.jpg",
       "PackagePath": "staticwebassets\\images\\users\\17.jpg"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\users\\18.jpg",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\users\\18.jpg",
       "PackagePath": "staticwebassets\\images\\users\\18.jpg"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\users\\19.jpg",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\users\\19.jpg",
       "PackagePath": "staticwebassets\\images\\users\\19.jpg"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\users\\2.jpg",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\users\\2.jpg",
       "PackagePath": "staticwebassets\\images\\users\\2.jpg"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\users\\20.jpg",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\users\\20.jpg",
       "PackagePath": "staticwebassets\\images\\users\\20.jpg"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\users\\3.jpg",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\users\\3.jpg",
       "PackagePath": "staticwebassets\\images\\users\\3.jpg"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\users\\4.jpg",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\users\\4.jpg",
       "PackagePath": "staticwebassets\\images\\users\\4.jpg"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\users\\41.html",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\users\\41.html",
       "PackagePath": "staticwebassets\\images\\users\\41.html"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\users\\5.jpg",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\users\\5.jpg",
       "PackagePath": "staticwebassets\\images\\users\\5.jpg"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\users\\6.jpg",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\users\\6.jpg",
       "PackagePath": "staticwebassets\\images\\users\\6.jpg"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\users\\7.jpg",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\users\\7.jpg",
       "PackagePath": "staticwebassets\\images\\users\\7.jpg"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\users\\8.jpg",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\users\\8.jpg",
       "PackagePath": "staticwebassets\\images\\users\\8.jpg"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\users\\9.jpg",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\images\\users\\9.jpg",
       "PackagePath": "staticwebassets\\images\\users\\9.jpg"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\js\\advancedform-rtl.html",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\js\\advancedform-rtl.html",
       "PackagePath": "staticwebassets\\js\\advancedform-rtl.html"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\js\\apexcharts.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\js\\apexcharts.js",
       "PackagePath": "staticwebassets\\js\\apexcharts.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\js\\chart.flot.sampledata.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\js\\chart.flot.sampledata.js",
       "PackagePath": "staticwebassets\\js\\chart.flot.sampledata.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\js\\chart.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\js\\chart.js",
       "PackagePath": "staticwebassets\\js\\chart.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\js\\charts.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\js\\charts.js",
       "PackagePath": "staticwebassets\\js\\charts.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\js\\circle-progress.min.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\js\\circle-progress.min.js",
       "PackagePath": "staticwebassets\\js\\circle-progress.min.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\js\\custom.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\js\\custom.js",
       "PackagePath": "staticwebassets\\js\\custom.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\js\\echarts.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\js\\echarts.js",
       "PackagePath": "staticwebassets\\js\\echarts.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\js\\flot.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\js\\flot.js",
       "PackagePath": "staticwebassets\\js\\flot.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\js\\form-elements.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\js\\form-elements.js",
       "PackagePath": "staticwebassets\\js\\form-elements.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\js\\formeditor.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\js\\formeditor.js",
       "PackagePath": "staticwebassets\\js\\formeditor.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\js\\fullcalendar.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\js\\fullcalendar.js",
       "PackagePath": "staticwebassets\\js\\fullcalendar.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\js\\index.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\js\\index.js",
       "PackagePath": "staticwebassets\\js\\index.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\js\\index1.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\js\\index1.js",
       "PackagePath": "staticwebassets\\js\\index1.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\js\\jquery-3.4.1.min.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\js\\jquery-3.4.1.min.js",
       "PackagePath": "staticwebassets\\js\\jquery-3.4.1.min.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\js\\jquery.sparkline.min.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\js\\jquery.sparkline.min.js",
       "PackagePath": "staticwebassets\\js\\jquery.sparkline.min.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\js\\morris.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\js\\morris.js",
       "PackagePath": "staticwebassets\\js\\morris.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\js\\nvd3.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\js\\nvd3.js",
       "PackagePath": "staticwebassets\\js\\nvd3.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\js\\popover.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\js\\popover.js",
       "PackagePath": "staticwebassets\\js\\popover.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\js\\range.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\js\\range.js",
       "PackagePath": "staticwebassets\\js\\range.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\js\\select2.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\js\\select2.js",
       "PackagePath": "staticwebassets\\js\\select2.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\js\\stiky.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\js\\stiky.js",
       "PackagePath": "staticwebassets\\js\\stiky.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\js\\summernote.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\js\\summernote.js",
       "PackagePath": "staticwebassets\\js\\summernote.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\js\\sweet-alert.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\js\\sweet-alert.js",
       "PackagePath": "staticwebassets\\js\\sweet-alert.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\js\\widget.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\js\\widget.js",
       "PackagePath": "staticwebassets\\js\\widget.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\manifest.json",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\manifest.json",
       "PackagePath": "staticwebassets\\manifest.json"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\accordion-Wizard-Form\\jquery.accordion-wizard.min.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\accordion-Wizard-Form\\jquery.accordion-wizard.min.js",
       "PackagePath": "staticwebassets\\plugins\\accordion-Wizard-Form\\jquery.accordion-wizard.min.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\accordion\\accordion.css",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\accordion\\accordion.css",
       "PackagePath": "staticwebassets\\plugins\\accordion\\accordion.css"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\accordion\\accordion.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\accordion\\accordion.js",
       "PackagePath": "staticwebassets\\plugins\\accordion\\accordion.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\accordion\\accordion.min.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\accordion\\accordion.min.js",
       "PackagePath": "staticwebassets\\plugins\\accordion\\accordion.min.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\bootstrap-daterangepicker\\daterangepicker.css",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\bootstrap-daterangepicker\\daterangepicker.css",
       "PackagePath": "staticwebassets\\plugins\\bootstrap-daterangepicker\\daterangepicker.css"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\bootstrap-daterangepicker\\daterangepicker.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\bootstrap-daterangepicker\\daterangepicker.js",
       "PackagePath": "staticwebassets\\plugins\\bootstrap-daterangepicker\\daterangepicker.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\bootstrap-daterangepicker\\moment.min.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\bootstrap-daterangepicker\\moment.min.js",
       "PackagePath": "staticwebassets\\plugins\\bootstrap-daterangepicker\\moment.min.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\bootstrap\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\bootstrap\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\plugins\\bootstrap\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\bootstrap\\js\\popper.min.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\bootstrap\\js\\popper.min.js",
       "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\popper.min.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\calendar\\clndr.css",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\calendar\\clndr.css",
       "PackagePath": "staticwebassets\\plugins\\calendar\\clndr.css"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\calendar\\clndr.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\calendar\\clndr.js",
       "PackagePath": "staticwebassets\\plugins\\calendar\\clndr.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\calendar\\demo.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\calendar\\demo.js",
       "PackagePath": "staticwebassets\\plugins\\calendar\\demo.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\calendar\\moment.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\calendar\\moment.js",
       "PackagePath": "staticwebassets\\plugins\\calendar\\moment.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\calendar\\underscore-min.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\calendar\\underscore-min.js",
       "PackagePath": "staticwebassets\\plugins\\calendar\\underscore-min.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\chart\\Chart.bundle.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\chart\\Chart.bundle.js",
       "PackagePath": "staticwebassets\\plugins\\chart\\Chart.bundle.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\chart\\utils.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\chart\\utils.js",
       "PackagePath": "staticwebassets\\plugins\\chart\\utils.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\charts-c3\\c3-chart.css",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\charts-c3\\c3-chart.css",
       "PackagePath": "staticwebassets\\plugins\\charts-c3\\c3-chart.css"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\charts-c3\\c3-chart.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\charts-c3\\c3-chart.js",
       "PackagePath": "staticwebassets\\plugins\\charts-c3\\c3-chart.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\charts-c3\\d3.v5.min.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\charts-c3\\d3.v5.min.js",
       "PackagePath": "staticwebassets\\plugins\\charts-c3\\d3.v5.min.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\charts-nvd3\\d3.min.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\charts-nvd3\\d3.min.js",
       "PackagePath": "staticwebassets\\plugins\\charts-nvd3\\d3.min.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\charts-nvd3\\nv.d3.css",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\charts-nvd3\\nv.d3.css",
       "PackagePath": "staticwebassets\\plugins\\charts-nvd3\\nv.d3.css"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\charts-nvd3\\nv.d3.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\charts-nvd3\\nv.d3.js",
       "PackagePath": "staticwebassets\\plugins\\charts-nvd3\\nv.d3.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\charts-nvd3\\stream_layers.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\charts-nvd3\\stream_layers.js",
       "PackagePath": "staticwebassets\\plugins\\charts-nvd3\\stream_layers.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\clipboard\\clipboard.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\clipboard\\clipboard.js",
       "PackagePath": "staticwebassets\\plugins\\clipboard\\clipboard.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\clipboard\\clipboard.min.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\clipboard\\clipboard.min.js",
       "PackagePath": "staticwebassets\\plugins\\clipboard\\clipboard.min.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\countdown\\countdowntime.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\countdown\\countdowntime.js",
       "PackagePath": "staticwebassets\\plugins\\countdown\\countdowntime.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\countdown\\flipclock.css",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\countdown\\flipclock.css",
       "PackagePath": "staticwebassets\\plugins\\countdown\\flipclock.css"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\countdown\\jquerysctipttop.css",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\countdown\\jquerysctipttop.css",
       "PackagePath": "staticwebassets\\plugins\\countdown\\jquerysctipttop.css"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\countdown\\moment-timezone-with-data.min.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\countdown\\moment-timezone-with-data.min.js",
       "PackagePath": "staticwebassets\\plugins\\countdown\\moment-timezone-with-data.min.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\countdown\\moment-timezone.min.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\countdown\\moment-timezone.min.js",
       "PackagePath": "staticwebassets\\plugins\\countdown\\moment-timezone.min.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\countdown\\moment.min.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\countdown\\moment.min.js",
       "PackagePath": "staticwebassets\\plugins\\countdown\\moment.min.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\counters\\count-down.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\counters\\count-down.js",
       "PackagePath": "staticwebassets\\plugins\\counters\\count-down.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\counters\\counter.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\counters\\counter.js",
       "PackagePath": "staticwebassets\\plugins\\counters\\counter.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\counters\\counters-1.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\counters\\counters-1.js",
       "PackagePath": "staticwebassets\\plugins\\counters\\counters-1.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\counters\\counterup.min.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\counters\\counterup.min.js",
       "PackagePath": "staticwebassets\\plugins\\counters\\counterup.min.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\counters\\jquery.missofis-countdown.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\counters\\jquery.missofis-countdown.js",
       "PackagePath": "staticwebassets\\plugins\\counters\\jquery.missofis-countdown.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\counters\\waypoints.min.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\counters\\waypoints.min.js",
       "PackagePath": "staticwebassets\\plugins\\counters\\waypoints.min.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\datatable\\dataTables.bootstrap4.min.css",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\datatable\\dataTables.bootstrap4.min.css",
       "PackagePath": "staticwebassets\\plugins\\datatable\\dataTables.bootstrap4.min.css"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\datatable\\dataTables.bootstrap4.min.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\datatable\\dataTables.bootstrap4.min.js",
       "PackagePath": "staticwebassets\\plugins\\datatable\\dataTables.bootstrap4.min.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\datatable\\dataTables.responsive.min.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\datatable\\dataTables.responsive.min.js",
       "PackagePath": "staticwebassets\\plugins\\datatable\\dataTables.responsive.min.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\datatable\\datatable-2.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\datatable\\datatable-2.js",
       "PackagePath": "staticwebassets\\plugins\\datatable\\datatable-2.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\datatable\\datatable.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\datatable\\datatable.js",
       "PackagePath": "staticwebassets\\plugins\\datatable\\datatable.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\datatable\\jquery.dataTables.min.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\datatable\\jquery.dataTables.min.js",
       "PackagePath": "staticwebassets\\plugins\\datatable\\jquery.dataTables.min.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\date-picker\\jquery-ui.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\date-picker\\jquery-ui.js",
       "PackagePath": "staticwebassets\\plugins\\date-picker\\jquery-ui.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\date-picker\\spectrum.css",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\date-picker\\spectrum.css",
       "PackagePath": "staticwebassets\\plugins\\date-picker\\spectrum.css"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\date-picker\\spectrum.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\date-picker\\spectrum.js",
       "PackagePath": "staticwebassets\\plugins\\date-picker\\spectrum.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\echarts\\echarts.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\echarts\\echarts.js",
       "PackagePath": "staticwebassets\\plugins\\echarts\\echarts.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\fileuploads\\css\\fileupload.css",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\fileuploads\\css\\fileupload.css",
       "PackagePath": "staticwebassets\\plugins\\fileuploads\\css\\fileupload.css"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\fileuploads\\js\\file-upload.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\fileuploads\\js\\file-upload.js",
       "PackagePath": "staticwebassets\\plugins\\fileuploads\\js\\file-upload.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\fileuploads\\js\\fileupload.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\fileuploads\\js\\fileupload.js",
       "PackagePath": "staticwebassets\\plugins\\fileuploads\\js\\fileupload.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\flot\\jquery.flot.fillbetween.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\flot\\jquery.flot.fillbetween.js",
       "PackagePath": "staticwebassets\\plugins\\flot\\jquery.flot.fillbetween.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\flot\\jquery.flot.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\flot\\jquery.flot.js",
       "PackagePath": "staticwebassets\\plugins\\flot\\jquery.flot.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\flot\\jquery.flot.pie.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\flot\\jquery.flot.pie.js",
       "PackagePath": "staticwebassets\\plugins\\flot\\jquery.flot.pie.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\formwizard\\fromwizard.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\formwizard\\fromwizard.js",
       "PackagePath": "staticwebassets\\plugins\\formwizard\\fromwizard.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\formwizard\\jquery.smartWizard.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\formwizard\\jquery.smartWizard.js",
       "PackagePath": "staticwebassets\\plugins\\formwizard\\jquery.smartWizard.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\formwizard\\smart_wizard.css",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\formwizard\\smart_wizard.css",
       "PackagePath": "staticwebassets\\plugins\\formwizard\\smart_wizard.css"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\formwizard\\smart_wizard_theme_arrows.css",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\formwizard\\smart_wizard_theme_arrows.css",
       "PackagePath": "staticwebassets\\plugins\\formwizard\\smart_wizard_theme_arrows.css"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\formwizard\\smart_wizard_theme_circles.css",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\formwizard\\smart_wizard_theme_circles.css",
       "PackagePath": "staticwebassets\\plugins\\formwizard\\smart_wizard_theme_circles.css"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\formwizard\\smart_wizard_theme_dots.css",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\formwizard\\smart_wizard_theme_dots.css",
       "PackagePath": "staticwebassets\\plugins\\formwizard\\smart_wizard_theme_dots.css"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\forn-wizard\\css\\demo.css",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\forn-wizard\\css\\demo.css",
       "PackagePath": "staticwebassets\\plugins\\forn-wizard\\css\\demo.css"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\forn-wizard\\img\\bg.html",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\forn-wizard\\img\\bg.html",
       "PackagePath": "staticwebassets\\plugins\\forn-wizard\\img\\bg.html"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\fullcalendar\\fullcalendar.css",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\fullcalendar\\fullcalendar.css",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\fullcalendar.css"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\fullcalendar\\fullcalendar.min.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\fullcalendar\\fullcalendar.min.js",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\fullcalendar.min.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\fullcalendar\\fullcalendar.print.min.css",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\fullcalendar\\fullcalendar.print.min.css",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\fullcalendar.print.min.css"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\fullcalendar\\jquery-ui.min.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\fullcalendar\\jquery-ui.min.js",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\jquery-ui.min.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\fullcalendar\\moment.min.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\fullcalendar\\moment.min.js",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\moment.min.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\gallery\\fonts\\lgd41d.eot",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\gallery\\fonts\\lgd41d.eot",
       "PackagePath": "staticwebassets\\plugins\\gallery\\fonts\\lgd41d.eot"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\gallery\\fonts\\lgd641.eot",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\gallery\\fonts\\lgd641.eot",
       "PackagePath": "staticwebassets\\plugins\\gallery\\fonts\\lgd641.eot"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\gallery\\fonts\\lgd641.svg",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\gallery\\fonts\\lgd641.svg",
       "PackagePath": "staticwebassets\\plugins\\gallery\\fonts\\lgd641.svg"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\gallery\\fonts\\lgd641.ttf",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\gallery\\fonts\\lgd641.ttf",
       "PackagePath": "staticwebassets\\plugins\\gallery\\fonts\\lgd641.ttf"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\gallery\\fonts\\lgd641.woff",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\gallery\\fonts\\lgd641.woff",
       "PackagePath": "staticwebassets\\plugins\\gallery\\fonts\\lgd641.woff"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\gallery\\gallery.css",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\gallery\\gallery.css",
       "PackagePath": "staticwebassets\\plugins\\gallery\\gallery.css"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\gallery\\lg-autoplay.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\gallery\\lg-autoplay.js",
       "PackagePath": "staticwebassets\\plugins\\gallery\\lg-autoplay.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\gallery\\lg-fullscreen.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\gallery\\lg-fullscreen.js",
       "PackagePath": "staticwebassets\\plugins\\gallery\\lg-fullscreen.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\gallery\\lg-hash.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\gallery\\lg-hash.js",
       "PackagePath": "staticwebassets\\plugins\\gallery\\lg-hash.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\gallery\\lg-pager.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\gallery\\lg-pager.js",
       "PackagePath": "staticwebassets\\plugins\\gallery\\lg-pager.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\gallery\\lg-share.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\gallery\\lg-share.js",
       "PackagePath": "staticwebassets\\plugins\\gallery\\lg-share.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\gallery\\lg-zoom.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\gallery\\lg-zoom.js",
       "PackagePath": "staticwebassets\\plugins\\gallery\\lg-zoom.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\gallery\\lightgallery-1.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\gallery\\lightgallery-1.js",
       "PackagePath": "staticwebassets\\plugins\\gallery\\lightgallery-1.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\gallery\\lightgallery.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\gallery\\lightgallery.js",
       "PackagePath": "staticwebassets\\plugins\\gallery\\lightgallery.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\gallery\\picturefill.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\gallery\\picturefill.js",
       "PackagePath": "staticwebassets\\plugins\\gallery\\picturefill.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\horizontal-menu\\horizontal-menu-rtl.html",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\horizontal-menu\\horizontal-menu-rtl.html",
       "PackagePath": "staticwebassets\\plugins\\horizontal-menu\\horizontal-menu-rtl.html"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\horizontal-menu\\horizontal-menu.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\horizontal-menu\\horizontal-menu.js",
       "PackagePath": "staticwebassets\\plugins\\horizontal-menu\\horizontal-menu.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\img\\loading.html",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\img\\loading.html",
       "PackagePath": "staticwebassets\\plugins\\img\\loading.html"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\img\\video-play.html",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\img\\video-play.html",
       "PackagePath": "staticwebassets\\plugins\\img\\video-play.html"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\img\\vimeo-play.html",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\img\\vimeo-play.html",
       "PackagePath": "staticwebassets\\plugins\\img\\vimeo-play.html"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\img\\youtube-play.html",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\img\\youtube-play.html",
       "PackagePath": "staticwebassets\\plugins\\img\\youtube-play.html"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\input-mask\\jquery.mask.min.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\input-mask\\jquery.mask.min.js",
       "PackagePath": "staticwebassets\\plugins\\input-mask\\jquery.mask.min.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\input-mask\\jquery.maskedinput.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\input-mask\\jquery.maskedinput.js",
       "PackagePath": "staticwebassets\\plugins\\input-mask\\jquery.maskedinput.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\ion.rangeSlider\\css\\ion.rangeSlider.css",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\ion.rangeSlider\\css\\ion.rangeSlider.css",
       "PackagePath": "staticwebassets\\plugins\\ion.rangeSlider\\css\\ion.rangeSlider.css"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\ion.rangeSlider\\css\\ion.rangeSlider.skinSimple.css",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\ion.rangeSlider\\css\\ion.rangeSlider.skinSimple.css",
       "PackagePath": "staticwebassets\\plugins\\ion.rangeSlider\\css\\ion.rangeSlider.skinSimple.css"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\ion.rangeSlider\\img\\sprite-skin-simple.png",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\ion.rangeSlider\\img\\sprite-skin-simple.png",
       "PackagePath": "staticwebassets\\plugins\\ion.rangeSlider\\img\\sprite-skin-simple.png"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\ion.rangeSlider\\js\\ion.rangeSlider.min.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\ion.rangeSlider\\js\\ion.rangeSlider.min.js",
       "PackagePath": "staticwebassets\\plugins\\ion.rangeSlider\\js\\ion.rangeSlider.min.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\jquery-countdown\\countdown.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\jquery-countdown\\countdown.js",
       "PackagePath": "staticwebassets\\plugins\\jquery-countdown\\countdown.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\jquery-countdown\\jquery.countdown.css",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\jquery-countdown\\jquery.countdown.css",
       "PackagePath": "staticwebassets\\plugins\\jquery-countdown\\jquery.countdown.css"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\jquery-countdown\\jquery.countdown.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\jquery-countdown\\jquery.countdown.js",
       "PackagePath": "staticwebassets\\plugins\\jquery-countdown\\jquery.countdown.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\jquery-countdown\\jquery.plugin.min.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\jquery-countdown\\jquery.plugin.min.js",
       "PackagePath": "staticwebassets\\plugins\\jquery-countdown\\jquery.plugin.min.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\jquery.flot\\jquery.flot.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\jquery.flot\\jquery.flot.js",
       "PackagePath": "staticwebassets\\plugins\\jquery.flot\\jquery.flot.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\jquery.flot\\jquery.flot.pie.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\jquery.flot\\jquery.flot.pie.js",
       "PackagePath": "staticwebassets\\plugins\\jquery.flot\\jquery.flot.pie.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\jquery.flot\\jquery.flot.resize.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\jquery.flot\\jquery.flot.resize.js",
       "PackagePath": "staticwebassets\\plugins\\jquery.flot\\jquery.flot.resize.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\maps-google\\jquery.googlemap.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\maps-google\\jquery.googlemap.js",
       "PackagePath": "staticwebassets\\plugins\\maps-google\\jquery.googlemap.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\maps-google\\map.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\maps-google\\map.js",
       "PackagePath": "staticwebassets\\plugins\\maps-google\\map.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\moment\\moment.min.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\moment\\moment.min.js",
       "PackagePath": "staticwebassets\\plugins\\moment\\moment.min.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\morris\\morris.css",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\morris\\morris.css",
       "PackagePath": "staticwebassets\\plugins\\morris\\morris.css"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\morris\\morris.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\morris\\morris.js",
       "PackagePath": "staticwebassets\\plugins\\morris\\morris.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\morris\\raphael-min.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\morris\\raphael-min.js",
       "PackagePath": "staticwebassets\\plugins\\morris\\raphael-min.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\multipleselect\\multi-select.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\multipleselect\\multi-select.js",
       "PackagePath": "staticwebassets\\plugins\\multipleselect\\multi-select.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\multipleselect\\multiple-select.css",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\multipleselect\\multiple-select.css",
       "PackagePath": "staticwebassets\\plugins\\multipleselect\\multiple-select.css"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\multipleselect\\multiple-select.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\multipleselect\\multiple-select.js",
       "PackagePath": "staticwebassets\\plugins\\multipleselect\\multiple-select.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\multipleselect\\multiple-select.png",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\multipleselect\\multiple-select.png",
       "PackagePath": "staticwebassets\\plugins\\multipleselect\\multiple-select.png"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\notify\\css\\jquery.growl.css",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\notify\\css\\jquery.growl.css",
       "PackagePath": "staticwebassets\\plugins\\notify\\css\\jquery.growl.css"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\notify\\js\\custom-notify.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\notify\\js\\custom-notify.js",
       "PackagePath": "staticwebassets\\plugins\\notify\\js\\custom-notify.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\notify\\js\\jquery.growl.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\notify\\js\\jquery.growl.js",
       "PackagePath": "staticwebassets\\plugins\\notify\\js\\jquery.growl.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\notify\\js\\rainbow.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\notify\\js\\rainbow.js",
       "PackagePath": "staticwebassets\\plugins\\notify\\js\\rainbow.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\p-scroll\\p-scroll-1-rtl.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\p-scroll\\p-scroll-1-rtl.js",
       "PackagePath": "staticwebassets\\plugins\\p-scroll\\p-scroll-1-rtl.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\p-scroll\\p-scroll-v-sroll.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\p-scroll\\p-scroll-v-sroll.js",
       "PackagePath": "staticwebassets\\plugins\\p-scroll\\p-scroll-v-sroll.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\p-scroll\\p-scroll.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\p-scroll\\p-scroll.js",
       "PackagePath": "staticwebassets\\plugins\\p-scroll\\p-scroll.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\p-scroll\\perfect-scrollbar-rtl.css",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\p-scroll\\perfect-scrollbar-rtl.css",
       "PackagePath": "staticwebassets\\plugins\\p-scroll\\perfect-scrollbar-rtl.css"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\p-scroll\\perfect-scrollbar.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\p-scroll\\perfect-scrollbar.js",
       "PackagePath": "staticwebassets\\plugins\\p-scroll\\perfect-scrollbar.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\peitychart\\jquery.peity.min.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\peitychart\\jquery.peity.min.js",
       "PackagePath": "staticwebassets\\plugins\\peitychart\\jquery.peity.min.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\peitychart\\peitychart.init.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\peitychart\\peitychart.init.js",
       "PackagePath": "staticwebassets\\plugins\\peitychart\\peitychart.init.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\prism\\prism.css",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\prism\\prism.css",
       "PackagePath": "staticwebassets\\plugins\\prism\\prism.css"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\prism\\prism.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\prism\\prism.js",
       "PackagePath": "staticwebassets\\plugins\\prism\\prism.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\rating\\jquery.barrating.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\rating\\jquery.barrating.js",
       "PackagePath": "staticwebassets\\plugins\\rating\\jquery.barrating.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\rating\\jquery.rating-stars.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\rating\\jquery.rating-stars.js",
       "PackagePath": "staticwebassets\\plugins\\rating\\jquery.rating-stars.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\rating\\js\\examples.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\rating\\js\\examples.js",
       "PackagePath": "staticwebassets\\plugins\\rating\\js\\examples.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\scroll-bar\\jquery.mCustomScrollbar.css",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\scroll-bar\\jquery.mCustomScrollbar.css",
       "PackagePath": "staticwebassets\\plugins\\scroll-bar\\jquery.mCustomScrollbar.css"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\scroll-bar\\mCSB_buttons.html",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\scroll-bar\\mCSB_buttons.html",
       "PackagePath": "staticwebassets\\plugins\\scroll-bar\\mCSB_buttons.html"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\select2\\select2.full.min.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\select2\\select2.full.min.js",
       "PackagePath": "staticwebassets\\plugins\\select2\\select2.full.min.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\select2\\select2.min.css",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\select2\\select2.min.css",
       "PackagePath": "staticwebassets\\plugins\\select2\\select2.min.css"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\sidebar\\sidebar-rtl.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\sidebar\\sidebar-rtl.js",
       "PackagePath": "staticwebassets\\plugins\\sidebar\\sidebar-rtl.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\sidemenu\\sidemenu.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\sidemenu\\sidemenu.js",
       "PackagePath": "staticwebassets\\plugins\\sidemenu\\sidemenu.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\single-page\\css\\main.css",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\single-page\\css\\main.css",
       "PackagePath": "staticwebassets\\plugins\\single-page\\css\\main.css"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\summernote\\font\\summernotec360.eot",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\summernote\\font\\summernotec360.eot",
       "PackagePath": "staticwebassets\\plugins\\summernote\\font\\summernotec360.eot"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\summernote\\font\\summernotec360.ttf",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\summernote\\font\\summernotec360.ttf",
       "PackagePath": "staticwebassets\\plugins\\summernote\\font\\summernotec360.ttf"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\summernote\\font\\summernotec360.woff",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\summernote\\font\\summernotec360.woff",
       "PackagePath": "staticwebassets\\plugins\\summernote\\font\\summernotec360.woff"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\summernote\\summernote-bs4.css",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\summernote\\summernote-bs4.css",
       "PackagePath": "staticwebassets\\plugins\\summernote\\summernote-bs4.css"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\summernote\\summernote-bs4.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\summernote\\summernote-bs4.js",
       "PackagePath": "staticwebassets\\plugins\\summernote\\summernote-bs4.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\sweet-alert\\sweetalert.css",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\sweet-alert\\sweetalert.css",
       "PackagePath": "staticwebassets\\plugins\\sweet-alert\\sweetalert.css"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\sweet-alert\\sweetalert.min.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\sweet-alert\\sweetalert.min.js",
       "PackagePath": "staticwebassets\\plugins\\sweet-alert\\sweetalert.min.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\tabs\\jquery.multipurpose_tabcontent.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\tabs\\jquery.multipurpose_tabcontent.js",
       "PackagePath": "staticwebassets\\plugins\\tabs\\jquery.multipurpose_tabcontent.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\tabs\\tab-content.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\tabs\\tab-content.js",
       "PackagePath": "staticwebassets\\plugins\\tabs\\tab-content.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\tabs\\tabs.css",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\tabs\\tabs.css",
       "PackagePath": "staticwebassets\\plugins\\tabs\\tabs.css"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\time-picker\\jquery.timepicker.css",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\time-picker\\jquery.timepicker.css",
       "PackagePath": "staticwebassets\\plugins\\time-picker\\jquery.timepicker.css"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\time-picker\\jquery.timepicker.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\time-picker\\jquery.timepicker.js",
       "PackagePath": "staticwebassets\\plugins\\time-picker\\jquery.timepicker.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\time-picker\\toggles.min.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\time-picker\\toggles.min.js",
       "PackagePath": "staticwebassets\\plugins\\time-picker\\toggles.min.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\wysiwyag\\jquery.richtext.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\wysiwyag\\jquery.richtext.js",
       "PackagePath": "staticwebassets\\plugins\\wysiwyag\\jquery.richtext.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\wysiwyag\\richtext.css",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\wysiwyag\\richtext.css",
       "PackagePath": "staticwebassets\\plugins\\wysiwyag\\richtext.css"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\wysiwyag\\wysiwyag.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\plugins\\wysiwyag\\wysiwyag.js",
       "PackagePath": "staticwebassets\\plugins\\wysiwyag\\wysiwyag.js"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\styles\\custom.css",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\styles\\custom.css",
       "PackagePath": "staticwebassets\\styles\\custom.css"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\switcher\\css\\demo.css",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\switcher\\css\\demo.css",
       "PackagePath": "staticwebassets\\switcher\\css\\demo.css"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\switcher\\css\\switcher-rtl.css",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\switcher\\css\\switcher-rtl.css",
       "PackagePath": "staticwebassets\\switcher\\css\\switcher-rtl.css"
     },
     {
-      "Id": "C:\\Users\\Ali\\source\\repos\\mms3\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\switcher\\js\\switcher-rtl.js",
+      "Id": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\switcher\\js\\switcher-rtl.js",
       "PackagePath": "staticwebassets\\switcher\\js\\switcher-rtl.js"
     },
     {

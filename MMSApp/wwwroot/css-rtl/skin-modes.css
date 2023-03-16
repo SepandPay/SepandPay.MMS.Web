@@ -178,7 +178,7 @@ body.dark-mode {
 
 .dark-mode .form-control {
     color: rgba(255, 255, 255, 0.8) !important;
-    background-color: #22223d;
+    background-color: #30304d;
     border: 1px solid rgba(255, 255, 255, 0.1);
 }
 
@@ -219,7 +219,8 @@ body.dark-mode {
 
 .dark-mode .select2-container--default .select2-search--dropdown .select2-search__field {
     border: 1px solid rgba(255, 255, 255, 0.1) !important;
-    background: #2e2e4a;
+    background: #22223d;
+    color: rgba(255, 255, 255, 0.8) !important;
 }
 
 .dark-mode .select2-container--default .select2-selection--multiple .select2-selection__choice, .dark-mode .select2-container--default .select2-selection--multiple .select2-selection__choice__remove {
@@ -3515,7 +3516,8 @@ body.dark-mode {
     }
 
 .dark-mode .select2-dropdown {
-    background-color: #30304d;
+    background-color: #30304dad;
+    backdrop-filter: blur(17px);
     border: 1px solid rgba(255, 255, 255, 0.1);
 }
 

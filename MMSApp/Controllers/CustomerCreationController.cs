@@ -28,6 +28,7 @@ namespace MMSApp.Controllers
 
             ViewBag.countries = _context.Countries.ToList();
             ViewBag.degrees = _context.Degrees.ToList();
+            ViewBag.alphabetics = _context.Alphabets.ToList();
 
             return View(mymodel);
         }

@@ -122,7 +122,7 @@ public partial class Person
 
     public DateTime? UpdateTime { get; set; }
 
-    [Display(Name = "نوع مشتری")]
+
     public long PersonTypeId { get; set; }
 
     [ForeignKey("BirthCertificateAlphabiticNoId")]

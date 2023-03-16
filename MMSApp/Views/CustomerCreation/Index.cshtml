@@ -8,24 +8,8 @@
 }
 
 @section Styles {
-
-
-
-    <!--BOOTSTRAP-DATERANGEPICKER CSS-->
-    <link rel="stylesheet" href="~/plugins/bootstrap-daterangepicker/daterangepicker.css" asp-append-version="true" />
-
-    <!-- TIME PICKER CSS -->
-    <link href="~/plugins/time-picker/jquery.timepicker.css" rel="stylesheet" asp-append-version="true" />
-
-    <!-- DATE PICKER CSS -->
-    <link href="~/plugins/date-picker/spectrum.css" rel="stylesheet" asp-append-version="true" />
-
-    <style>
-
-        .select2-selection__rendered, .selection {
-            display: none;
-        }
-    </style>
+    <!-- SELECT2 CSS -->
+    <link href="~/plugins/select2/select2.min.css" rel="stylesheet" asp-append-version="true" />
 }
 
 
@@ -39,26 +23,17 @@
                 <h3 class="card-title">پنل اطلاعات شخصی</h3>
             </div>
             <div class="card-body ">
-
-
                 <div class="form-group">
-                    <label asp-for="MainPerson.PersonTypeId" class="form-label">
-                        @*  انتخاب نوع مشتری*@
-                    </label>
+                    <label asp-for="MainPerson.PersonTypeId" class="form-label"></label>
                     <select asp-for="MainPerson.PersonTypeId" name="personType" class="form-control select2" data-placeholder="Choose one (with optgroup)">
                         <option value="TRU">حقیقی</option>
                         <option value="LEG">حقوقی</option>
                         <option value="SUB">اتباع</option>
                     </select>
-
                 </div>
 
 
                 <!-- برای حقیقی -->
-
-
-
-
                 <partial name="PartialViews/TruePerson" model="Model.MainPerson" />
 
                 <!-- برای حقوقی -->

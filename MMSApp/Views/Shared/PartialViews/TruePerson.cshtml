@@ -6,90 +6,81 @@
 <div class="row">
     <div class="col-12 col-md-6">
         <div class="form-group">
-            @*<label class="form-label"> کد ملی</label>
-            <input type="text" class="form-control is-valid state-valid" name="example-text-input-valid" placeholder="برای مثال: 4711046003">*@
             <label asp-for="NationalNumber" class="form-label"></label>
-            <input asp-for="NationalNumber" class="form-control is-valid state-valid" placeholder="برای مثال: 4711046003" />
+            <input asp-for="NationalNumber" type="text" class="form-control" placeholder="برای مثال: 4711046003" />
         </div>
     </div>
 
     <div class="col-12 col-md-6">
         <div class="form-group">
-            <label class="form-label">ملیت</label>
-            <select name="country" id="select-countries" class="form-control select2">
-                >
+            <label asp-for="NationalityCountry" class="form-label"></label>
+            <select class="form-control select2-show-search" data-placeholder="Choose one (with searchbox)">
                 @foreach (var country in ViewBag.countries)
                 {
                     <option value="@country.Id">@country.PersianName</option>
                 }
-
             </select>
         </div>
     </div>
 
+
+
     <div class="col-12 col-md-6">
         <div class="form-group">
-            <label class="form-label"> نام فارسی</label>
-            <input type="text" class="form-control is-valid state-valid" name="example-text-input-valid" placeholder="برای مثال: علی">
+            <label asp-for="FirstNameFa" class="form-label"></label>
+            <input asp-for="FirstNameFa" type="text" class="form-control" placeholder="رضا" />
         </div>
     </div>
     <div class="col-12 col-md-6">
         <div class="form-group">
-            <label class="form-label"> نام لاتین</label>
-            <input type="text" class="form-control is-valid state-valid" name="example-text-input-valid" placeholder="برای مثال: ali">
+            <label asp-for="FirstNameEn" class="form-label"></label>
+            <input asp-for="FirstNameEn" type="text" class="form-control" placeholder="Reza" />
         </div>
     </div>
     <div class="col-12 col-md-6">
         <div class="form-group">
-            <label class="form-label">  نام خانوادگی فارسی</label>
-            <input type="text" class="form-control is-valid state-valid" name="example-text-input-valid" placeholder="برای مثال: مردانی">
+            <label asp-for="LastNameFa" class="form-label"></label>
+            <input asp-for="LastNameFa" type="text" class="form-control" placeholder="رضایی" />
+
         </div>
     </div>
     <div class="col-12 col-md-6">
         <div class="form-group">
-            <label class="form-label">
-                نام خانوادگی لاتین
-            </label>
-            <input type="text" class="form-control is-valid state-valid" name="example-text-input-valid" placeholder="برای مثال: mardani">
+            <label asp-for="LastNameEn" class="form-label"></label>
+            <input asp-for="LastNameEn" type="text" class="form-control" placeholder="Rezaei" />
         </div>
     </div>
     <div class="col-12 col-md-6">
         <div class="form-group">
-            <label class="form-label">
-                نام پدر فارسی
-            </label>
-            <input type="text" class="form-control is-valid state-valid" name="example-text-input-valid" placeholder="برای مثال: رضا">
+            <label asp-for="FatherNameFa" class="form-label"></label>
+            <input asp-for="FatherNameFa" type="text" class="form-control" placeholder="رضا" />
         </div>
     </div>
     <div class="col-12 col-md-6">
         <div class="form-group">
-            <label class="form-label">
-                نام پدر لاتین
-            </label>
-            <input type="text" class="form-control is-valid state-valid" name="example-text-input-valid" placeholder="برای مثال: reza">
+            <label asp-for="FatherNameEn" class="form-label"></label>
+            <input asp-for="FatherNameEn" type="text" class="form-control" placeholder="رضایی" />
         </div>
     </div>
     <div class="col-12 col-md-6">
         <div class="form-group">
-            <label class="form-label">
-                محل تولد
-            </label>
-            <input type="text" class="form-control is-valid state-valid" name="example-text-input-valid" placeholder="برای مثال: تهران">
+            <label asp-for="BirthLocation" class="form-label"></label>
+            <input asp-for="BirthLocation" type="text" class="form-control" placeholder="برای مثال: تهران" />
+
         </div>
     </div>
     <div class="col-12 col-md-6">
         <div class="form-group">
-            <label class="form-label">
-                محل صدور
-            </label>
-            <input type="text" class="form-control is-valid state-valid" name="example-text-input-valid" placeholder="برای مثال: تهران">
+            <label asp-for="BirthCertificatePlaceOfIssue" class="form-label"></label>
+            <input asp-for="BirthCertificatePlaceOfIssue" type="text" class="form-control" placeholder="برای مثال: تهران" />
         </div>
     </div>
 
     <div class="col-12 col-md-6">
-        <label class="form-label"> تاریخ تولد</label>
-        <input class="form-control fc-datepicker" placeholder="MM/DD/YYYY" type="text">
-
+        <div class="form-group">
+            <label asp-for="BirthDate" class="form-label"></label>
+            <input asp-for="BirthDate" type="text" class="form-control fc-datepicker" placeholder="ماه/روز/سال" />
+        </div>
     </div>
 
     <div class="col-12 col-md-6">
@@ -105,90 +96,58 @@
 
     <div class="col-12 col-md-6">
         <div class="form-group">
-            <label class="form-label">
-                کد پستی
-            </label>
-            <input type="text" class="form-control is-valid state-valid" name="example-text-input-valid" placeholder="برای مثال: 1908699419">
+            <label asp-for="PostalCode" class="form-label"></label>
+            <input asp-for="PostalCode" type="text" class="form-control" placeholder="برای مثال: 1234567890" />
         </div>
     </div>
 
     <div class="col-12 col-md-6">
-        <label class="form-label">مدرک تحصیلی</label>
+        <div class="form-group">
+
+            <label asp-for="Degree" class="form-label"></label>
+            <select name="country" id="select-countries" class="form-control select2 ">
+                >
+
+                @foreach (var degree in ViewBag.degrees)
+                {
+                    <option value="@degree.Id">@degree.Name</option>
+                }
+            </select>
+        </div>
+    </div>
+
+    <div class="col-12 col-md-6">
+        <div class="form-group">
+            <label asp-for="BirthCertificateNo" class="form-label"></label>
+            <input asp-for="BirthCertificateNo" type="text" class="form-control " placeholder="برای مثال: 1234567890" />
+        </div>
+    </div>
+
+    <div class="col-12 col-md-6">
+        <div class="form-group">
+            <label asp-for="BirthCertificateSerial" class="form-label"></label>
+            <input asp-for="BirthCertificateSerial" type="text" class="form-control " placeholder="برای مثال: 1234567890" />
+        </div>
+    </div>
+
+
+    <div class="col-12 col-md-6">
+        <label asp-for="BirthCertificateAlphabiticNoId" class="form-label"></label>
         <select name="country" id="select-countries" class="form-control select2 ">
             >
+            <option value="الف">الف</option>
 
-            @foreach (var degree in ViewBag.degrees)
+            @foreach (var birthcert in ViewBag.alphabetics)
             {
-                <option value="@degree.Id">@degree.Name</option>
+                <option value="@birthcert.Id">@birthcert.AlphabiticChar</option>
             }
         </select>
     </div>
 
     <div class="col-12 col-md-6">
         <div class="form-group">
-            <label class="form-label">
-                شماره شناسنامه
-            </label>
-            <input type="text" class="form-control is-valid state-valid" name="example-text-input-valid" placeholder="برای مثال: 4711046003">
-        </div>
-    </div>
-
-    <div class="col-12 col-md-6">
-        <div class="form-group">
-            <label class="form-label">
-                شماره سریال شناسنامه
-            </label>
-            <input type="text" class="form-control is-valid state-valid" name="example-text-input-valid" placeholder="برای مثال: 4711046003">
-        </div>
-    </div>
-
-
-    <div class="col-12 col-md-6">
-        <label class="form-label"> حرف شماره سریال شناسنامه</label>
-        <select name="country" id="select-countries" class="form-control select2 ">
-            >
-            <option value="الف">الف</option>
-            <option value="ب">ب</option>
-            <option value="پ">پ</option>
-            <option value="ت">ت</option>
-            <option value="ث">ث</option>
-            <option value="ج">ج</option>
-            <option value="چ">چ</option>
-            <option value="ح">ح</option>
-            <option value="خ">خ</option>
-            <option value="د">د</option>
-            <option value="ذ">ذ</option>
-            <option value="ر">ر</option>
-            <option value="ز">ز</option>
-            <option value="ژ">ژ</option>
-            <option value="س">س</option>
-            <option value="ش">ش</option>
-            <option value="ص">ص</option>
-            <option value="ض">ض</option>
-            <option value="ط">ط</option>
-            <option value="ظ">ظ</option>
-            <option value="ع">ع</option>
-            <option value="غ">غ</option>
-            <option value="ف">ف</option>
-            <option value="ق">ق</option>
-            <option value="ک">ک</option>
-            <option value="گ">گ</option>
-            <option value="ل">ل</option>
-            <option value="م">م</option>
-            <option value="ن">ن</option>
-            <option value="و">و</option>
-            <option value="ه">ه</option>
-            <option value="ی">ی</option>
-
-        </select>
-    </div>
-
-    <div class="col-12 col-md-6">
-        <div class="form-group">
-            <label class="form-label">
-                عدد دو رقمی شماره سریال شناسنامه
-            </label>
-            <input type="text" class="form-control is-valid state-valid" name="example-text-input-valid" placeholder="برای مثال: 22">
+            <label asp-for="BirthCertificateNumericNo" class="form-label"></label>
+            <input asp-for="BirthCertificateNumericNo" type="text" class="form-control " placeholder="برای مثال: 22" />
         </div>
     </div>
 </div>
