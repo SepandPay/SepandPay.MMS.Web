@@ -1,8 +1,123 @@
-﻿@*
+﻿@model Person
+
+@*
     For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
 *@
 <div class="row">
     <div class="col-12 col-md-6">
-        legal
+        <div class="form-group">
+            <label asp-for="ForeignPervasiveCode" class="form-label"></label>
+            <input asp-for="ForeignPervasiveCode" type="text" class="form-control" placeholder="برای مثال: 4711046003" />
+        </div>
+    </div>
+
+    <div class="col-12 col-md-6">
+        <div class="form-group">
+            <label asp-for="NationalityCountry" class="form-label"></label>
+            <select class="form-control select2-show-search" data-placeholder="Choose one (with searchbox)">
+                @foreach (var country in ViewBag.countries)
+                {
+                    <option value="@country.Id">@country.PersianName</option>
+                }
+            </select>
+        </div>
+    </div>
+
+    <div class="col-12 col-md-6">
+        <div class="form-group">
+            <label asp-for="FirstNameFa" class="form-label"></label>
+            <input asp-for="FirstNameFa" type="text" class="form-control" placeholder="رضا" />
+        </div>
+    </div>
+    <div class="col-12 col-md-6">
+        <div class="form-group">
+            <label asp-for="FirstNameEn" class="form-label"></label>
+            <input asp-for="FirstNameEn" type="text" class="form-control" placeholder="Reza" />
+        </div>
+    </div>
+    <div class="col-12 col-md-6">
+        <div class="form-group">
+            <label asp-for="LastNameFa" class="form-label"></label>
+            <input asp-for="LastNameFa" type="text" class="form-control" placeholder="رضایی" />
+
+        </div>
+    </div>
+    <div class="col-12 col-md-6">
+        <div class="form-group">
+            <label asp-for="LastNameEn" class="form-label"></label>
+            <input asp-for="LastNameEn" type="text" class="form-control" placeholder="Rezaei" />
+        </div>
+    </div>
+
+    <div class="col-12 col-md-6">
+        <div class="form-group">
+            <label asp-for="PassportNo" class="form-label"></label>
+            <input asp-for="PassportNo" type="text" class="form-control" placeholder="" />
+        </div>
+    </div>
+    <div class="col-12 col-md-6">
+        <div class="form-group">
+            <label asp-for="PassportExpireDate" class="form-label"></label>
+            <input asp-for="PassportExpireDate" type="text" class="form-control fc-datepicker" placeholder="ماه/روز/سال" />
+        </div>
+    </div>
+
+
+    <div class="col-12 col-md-6">
+        <div class="form-group">
+            <label asp-for="BirthLocation" class="form-label"></label>
+            <input asp-for="BirthLocation" type="text" class="form-control" placeholder="برای مثال: تهران" />
+
+        </div>
+    </div>
+    <div class="col-12 col-md-6">
+        <div class="form-group">
+            <label asp-for="BirthDate" class="form-label"></label>
+            <input asp-for="BirthDate" type="text" class="form-control fc-datepicker" placeholder="ماه/روز/سال" />
+        </div>
+    </div>
+
+    <div class="col-12 col-md-6">
+        <div class="form-group">
+            <label asp-for="FatherNameFa" class="form-label"></label>
+            <input asp-for="FatherNameFa" type="text" class="form-control" placeholder="رضا" />
+        </div>
+    </div>
+    <div class="col-12 col-md-6">
+        <div class="form-group">
+            <label asp-for="FatherNameEn" class="form-label"></label>
+            <input asp-for="FatherNameEn" type="text" class="form-control" placeholder="رضایی" />
+        </div>
+    </div>
+
+    <div class="col-12 col-md-6">
+        <label class="form-label">جنسیت</label>
+        <select name="country" id="select-countries" class="form-control select2 ">
+            >
+            <option value="male">مرد</option>
+            <option value="female">زن</option>
+
+        </select>
+    </div>
+    <div class="col-12 col-md-6">
+        <div class="form-group">
+            <label asp-for="PostalCode" class="form-label"></label>
+            <input asp-for="PostalCode" type="text" class="form-control" placeholder="برای مثال: 1234567890" />
+        </div>
+    </div>
+
+    <div class="col-12 col-md-6">
+        <div class="form-group">
+
+            <label asp-for="Degree" class="form-label"></label>
+            <select name="country" id="select-countries" class="form-control select2 ">
+                >
+
+                @foreach (var degree in ViewBag.degrees)
+                {
+                    <option value="@degree.Id">@degree.Name</option>
+                }
+            </select>
+        </div>
     </div>
 </div>
