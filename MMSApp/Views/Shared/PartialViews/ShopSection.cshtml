@@ -1,0 +1,148 @@
+﻿@model Shop
+@*
+    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+<div class="row">
+    <div class="col-12 col-md-6">
+        <div class="form-group">
+            <label asp-for="ShopNameFa" class="form-label"></label>
+            <input asp-for="ShopNameFa" type="text" class="form-control" placeholder="برای مثال: ونوس" />
+        </div>
+    </div>
+    <div class="col-12 col-md-6">
+        <div class="form-group">
+            <label asp-for="ShopNameEn" class="form-label"></label>
+            <input asp-for="ShopNameEn" type="text" class="form-control" placeholder="برای مثال: venus" />
+
+        </div>
+    </div>
+    <div class="col-12 col-md-6">
+        <div class="form-group">
+
+            <label asp-for="AddressFa" class="form-label"></label>
+            <input asp-for="AddressFa" type="text" class="form-control" placeholder="" />
+
+        </div>
+    </div>
+    <div class="col-12 col-md-6">
+        <div class="form-group">
+
+            <label asp-for="AddressEn" class="form-label"></label>
+            <input asp-for="AddressEn" type="text" class="form-control" placeholder="" />
+
+        </div>
+    </div>
+    <div class="col-12 col-md-6">
+        <div class="form-group">
+
+            <label asp-for="ShopBusinessLicenseIssueDate" class="form-label"></label>
+            <input asp-for="ShopBusinessLicenseIssueDate" type="text" class="form-control fc-datepicker" placeholder="ماه/روز/سال" />
+
+        </div>
+    </div>
+    <div class="col-12 col-md-6">
+        <div class="form-group">
+
+
+            <label asp-for="ShopBusinessLicenseExpireDate" class="form-label"></label>
+            <input asp-for="ShopBusinessLicenseExpireDate" type="text" class="form-control fc-datepicker" placeholder="ماه/روز/سال" />
+
+
+        </div>
+    </div>
+    <div class="col-12 col-md-6">
+        <div class="form-group">
+
+            <label asp-for="ShopBusinessLicenseNumber" class="form-label"></label>
+            <input asp-for="ShopBusinessLicenseNumber" type="text" class="form-control" placeholder="" />
+
+        </div>
+    </div>
+    <div class="col-12 col-md-6">
+        <div class="form-group">
+            senf
+        </div>
+    </div>
+    <div class="col-12 col-md-6">
+        <div class="form-group">
+
+
+            <label asp-for="taxPayerCode" class="form-label"></label>
+            <input asp-for="taxPayerCode" type="text" class="form-control" placeholder="" />
+
+        </div>
+    </div>
+
+    <div class="col-12 col-md-6">
+        <div class="form-group">
+            <label class="form-label">country</label>
+            <select class="form-control select2-show-search" data-placeholder="Choose one (with searchbox)">
+                @foreach (var country in ViewBag.countries)
+                {
+                    <option value="@country.Id">@country.PersianName</option>
+                }
+            </select>
+        </div>
+    </div>
+
+    <div class="col-12 col-md-6">
+        <div class="form-group">
+            ostan
+        </div>
+    </div>
+    <div class="col-12 col-md-6">
+        <div class="form-group">
+            city
+        </div>
+    </div>
+    <div class="col-12 col-md-6">
+        <div class="form-group">
+
+            <label asp-for="ShopPostalCode" class="form-label"></label>
+            <input asp-for="ShopPostalCode" type="text" class="form-control" placeholder="" />
+
+        </div>
+    </div>
+    <div class="col-12 col-md-6">
+        <div class="form-group">
+
+            <label asp-for="ShopFaxNumber" class="form-label"></label>
+            <input asp-for="ShopFaxNumber" type="text" class="form-control" placeholder="" />
+
+        </div>
+    </div>
+    <div class="col-12 col-md-6">
+        <div class="form-group">
+
+
+            <label asp-for="Telephone" class="form-label"></label>
+            <input asp-for="Telephone" type="tel" class="form-control" placeholder="" />
+
+        </div>
+    </div>
+    <div class="col-12 col-md-6">
+        <div class="form-group">
+
+            <label asp-for="ShopCityPreCode" class="form-label"></label>
+            <input asp-for="ShopCityPreCode" type="tel" class="form-control" placeholder="" />
+
+        </div>
+    </div>
+    <div class="col-12 col-md-6">
+        <div class="form-group">
+
+            <label asp-for="ShopEmail" class="form-label"></label>
+            <input asp-for="ShopEmail" type="email" class="form-control" placeholder="example@example.com" />
+
+        </div>
+    </div>
+    <div class="col-12 col-md-6">
+        <div class="form-group">
+
+            <label asp-for="WebSiteAddress" class="form-label"></label>
+            <input asp-for="WebSiteAddress" type="url" class="form-control" placeholder="https://example.com" />
+
+        </div>
+    </div>
+</div>
