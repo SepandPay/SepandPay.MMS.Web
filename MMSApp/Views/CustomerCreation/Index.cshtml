@@ -12,6 +12,11 @@
     <link href="~/plugins/select2/select2.min.css" rel="stylesheet" asp-append-version="true" />
     <!-- CSS -->
     <link href="~/css-rtl/smart_wizard_all.css" rel="stylesheet" type="text/css" />
+    <style>
+        .select2-container {
+            width: -webkit-fill-available !important;
+        }
+    </style>
 
 }
 
@@ -44,20 +49,56 @@
         </li>
     </ul>
 
-    <div class="tab-content">
-        <div id="step-1" class="tab-pane" role="tabpanel" aria-labelledby="step-1">
-            Step content
+    <form asp-action="index" method="post" class="card">
+        <div class="tab-content">
+            <div id="step-1" class="tab-pane" role="tabpanel" aria-labelledby="step-1">
+                <div class="card-header">
+                    <h3 class="card-title">پنل اطلاعات شخصی</h3>
+                </div>
+                <div class="card-body">
+                    <div class="form-group">
+                        <label asp-for="MainPerson.PersonTypeId" class="form-label"></label>
+                        <select asp-for="MainPerson.PersonTypeId" class="form-control select2 person_type">
+                            <option selected="selected" value="1">حقیقی</option>
+                            <option value="2">حقوقی</option>
+                            <option value="3">اتباع</option>
+                        </select>
+                    </div>
+
+
+
+                    <!-- برای حقیقی -->
+                    <partial name="PartialViews/TruePerson" model="Model.MainPerson" />
+                    <!-- برای حقوقی -->
+                    <partial name="PartialViews/LegalPerson" model="Model.MainPerson" />
+                    <!-- برای اتباع -->
+                    <partial name="PartialViews/SubPerson" model="Model.MainPerson" />
+
+                </div>
+
+            </div>
+            <div id="step-2" class="tab-pane" role="tabpanel" aria-labelledby="step-2">
+                <div class="card-header">
+                    <h3 class="card-title">پنل اطلاعات فروشگاه</h3>
+                </div>
+                <div class="card-body">
+                    <partial name="PartialViews/ShopSection" model="Model.MainPerson" />
+                </div>
+            </div>
+            <div id="step-3" class="tab-pane" role="tabpanel" aria-labelledby="step-3">
+                <div class="card-header">
+                    <h3 class="card-title">پنل اطلاعات بانکی</h3>
+                </div>
+                <div class="card-body">
+                    <partial name="PartialViews/BankSection" model="Model.MainPerson" />
+                </div>
+            </div>
+            <div id="step-4" class="tab-pane" role="tabpanel" aria-labelledby="step-4">
+                Step content4
+            </div>
         </div>
-        <div id="step-2" class="tab-pane" role="tabpanel" aria-labelledby="step-2">
-            Step content
-        </div>
-        <div id="step-3" class="tab-pane" role="tabpanel" aria-labelledby="step-3">
-            Step content
-        </div>
-        <div id="step-4" class="tab-pane" role="tabpanel" aria-labelledby="step-4">
-            Step content
-        </div>
-    </div>
+
+    </form>
 
     <!-- Include optional progressbar HTML -->
     @*  <div class="progress">
@@ -66,60 +107,6 @@
 </div>
 
 
-<div id="wizard">
-
-    <section>
-        <form asp-action="index" method="post" class="card">
-            @* <div>
-            <div class="card-header">
-            <h3 class="card-title">پنل اطلاعات شخصی</h3>
-            </div>
-            <div class="card-body">
-            <div class="form-group">
-            <label asp-for="MainPerson.PersonTypeId" class="form-label"></label>
-            <select asp-for="MainPerson.PersonTypeId" class="form-control select2 person_type">
-            <option selected="selected" value="1">حقیقی</option>
-            <option value="2">حقوقی</option>
-            <option value="3">اتباع</option>
-            </select>
-            </div>
-
-
-
-            <!-- برای حقیقی -->
-            <partial name="PartialViews/TruePerson" model="Model.MainPerson" />
-            <!-- برای حقوقی -->
-            <partial name="PartialViews/LegalPerson" model="Model.MainPerson" />
-            <!-- برای اتباع -->
-            <partial name="PartialViews/SubPerson" model="Model.MainPerson" />
-
-            </div>
-            </div>*@
-
-
-            @*<div>
-            <div class="card-header">
-            <h3 class="card-title">پنل اطلاعات فروشگاه</h3>
-            </div>
-            <div class="card-body">
-            <partial name="PartialViews/ShopSection" model="Model.MainPerson" />
-            </div>
-            </div>*@
-
-            @*  <div>
-            <div class="card-header">
-            <h3 class="card-title">پنل اطلاعات بانکی</h3>
-            </div>
-            <div class="card-body">
-            <partial name="PartialViews/BankSection" model="Model.MainPerson" />
-            </div>
-            </div>*@
-
-        </form>
-    </section>
-
-
-</div>
 
 
 
