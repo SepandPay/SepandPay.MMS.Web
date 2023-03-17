@@ -33,15 +33,13 @@
                 </div>
 
 
-                <!-- برای حقیقی -->
-                <div id="myTag">
-                    <partial name="PartialViews/TruePerson" model="Model.MainPerson" />
-                </div>
-                <!-- برای حقوقی -->
-                @* <partial name="PartialViews/LegalPerson" model="Model.MainPerson" />
 
+                @*     <!-- برای حقیقی -->
+                <partial name="PartialViews/TruePerson" model="Model.MainPerson" />*@
+                <!-- برای حقوقی -->
+                <partial name="PartialViews/LegalPerson" model="Model.MainPerson" />
                 <!-- برای اتباع -->
-                <div class="row"></div>*@
+                <partial name="PartialViews/SubPerson" model="Model.MainPerson" />
 
             </div>
         </form>
@@ -58,10 +56,6 @@
     <script>
 
         $(document).ready(function () {
-
-
-
-
             $("select.person_type").change(function () {
                 const truePersonPage = `<partial name="PartialViews/TruePerson" model="Model.MainPerson" / >`;
                 const legalPersonPage = `<partial name="PartialViews/LegalPerson" model="Model.MainPerson" / >`;
@@ -92,7 +86,6 @@
 
     <!-- DATEPICKER JS -->
     <script src="~/plugins/input-mask/jquery.maskedinput.js" asp-append-version="true"></script>
-
 
     <!-- FORMELEMENTS JS -->
     <script src="~/js/form-elements.js" asp-append-version="true"></script>

@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSModel\\MMSModel.csproj": {}
+    "C:\\Users\\Mohammad\\source\\repos\\SepandPay\\SepandPay.MMS.Web\\MMSModel\\MMSModel.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSModel\\MMSModel.csproj": {
+    "C:\\Users\\Mohammad\\source\\repos\\SepandPay\\SepandPay.MMS.Web\\MMSModel\\MMSModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSModel\\MMSModel.csproj",
+        "projectUniqueName": "C:\\Users\\Mohammad\\source\\repos\\SepandPay\\SepandPay.MMS.Web\\MMSModel\\MMSModel.csproj",
         "projectName": "MMSModel",
-        "projectPath": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSModel\\MMSModel.csproj",
+        "projectPath": "C:\\Users\\Mohammad\\source\\repos\\SepandPay\\SepandPay.MMS.Web\\MMSModel\\MMSModel.csproj",
         "packagesPath": "C:\\Users\\Mohammad\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSModel\\obj\\",
         "projectStyle": "PackageReference",

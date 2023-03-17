@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GHU6XK1KEqM3l7NLDgmwtaV1uANUVeRjrHHg0OVEv94VW1Ttnow5ZyhkWAuKUk5l11jaDoLhSJYQRK5D4iIkFQ==",
+  "dgSpecHash": "dsXdT7njmAjGudD1icWnFOtGcLIeqaLLqWaWJmBD5gheX9wcKHh64buY2Lq98HSy1g3iIRBGopJZsc5ApHAY7g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mohammad\\Source\\Repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\MMSApp.csproj",
+  "projectFilePath": "C:\\Users\\Mohammad\\source\\repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\MMSApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mohammad\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Mohammad\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
