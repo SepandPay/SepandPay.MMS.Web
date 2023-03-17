@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "I2YZ+VWLV/WhMHz7qC0Zb4DhjeFYy4+UBeAkrsyOq70=",
+  "Hash": "JbNJvF9zxyXTE67Z+5S4Qg6o6k4sTJCspfJtoKoEqxQ=",
   "Source": "MMSApp",
   "BasePath": "_content/MMSApp",
   "Mode": "Default",
@@ -134,6 +134,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css-rtl\\skin-modes.css"
+    },
+    {
+      "Identity": "C:\\Users\\Mohammad\\source\\repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\css-rtl\\smart_wizard_all.css",
+      "SourceId": "MMSApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohammad\\source\\repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\",
+      "BasePath": "_content/MMSApp",
+      "RelativePath": "css-rtl/smart_wizard_all.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css-rtl\\smart_wizard_all.css"
+    },
+    {
+      "Identity": "C:\\Users\\Mohammad\\source\\repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\css-rtl\\smart_wizard_all.min.css",
+      "SourceId": "MMSApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohammad\\source\\repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\",
+      "BasePath": "_content/MMSApp",
+      "RelativePath": "css-rtl/smart_wizard_all.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css-rtl\\smart_wizard_all.min.css"
     },
     {
       "Identity": "C:\\Users\\Mohammad\\source\\repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\css-rtl\\style.css",

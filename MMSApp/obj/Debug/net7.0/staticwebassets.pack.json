@@ -25,6 +25,14 @@
       "PackagePath": "staticwebassets\\css-rtl\\skin-modes.css"
     },
     {
+      "Id": "C:\\Users\\Mohammad\\source\\repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\css-rtl\\smart_wizard_all.css",
+      "PackagePath": "staticwebassets\\css-rtl\\smart_wizard_all.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\source\\repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\css-rtl\\smart_wizard_all.min.css",
+      "PackagePath": "staticwebassets\\css-rtl\\smart_wizard_all.min.css"
+    },
+    {
       "Id": "C:\\Users\\Mohammad\\source\\repos\\SepandPay\\SepandPay.MMS.Web\\MMSApp\\wwwroot\\css-rtl\\style.css",
       "PackagePath": "staticwebassets\\css-rtl\\style.css"
     },
