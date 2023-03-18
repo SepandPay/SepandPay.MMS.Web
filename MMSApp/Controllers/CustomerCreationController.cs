@@ -101,5 +101,15 @@ namespace MMSApp.Controllers
                 return View();
             }
         }
+
+
+        // POST: CustomerCreationController/GetCityProvince
+        [HttpPost]
+        [Route("GetCityProvince")]
+        public JsonResult GetCityByProvince(int id)
+        {
+            var cities = _context.Cities.Where(c => c.ProvinceId == id).ToList();
+            return Json(cities);
+        }
     }
 }

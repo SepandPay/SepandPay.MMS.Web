@@ -67,12 +67,23 @@
 
 
 
-                    <!-- برای حقیقی -->
-                    <partial name="PartialViews/TruePerson" model="Model.MainPerson" />
-                    <!-- برای حقوقی -->
-                    <partial name="PartialViews/LegalPerson" model="Model.MainPerson" />
-                    <!-- برای اتباع -->
-                    <partial name="PartialViews/SubPerson" model="Model.MainPerson" />
+                    <div id="truePart">
+                        <!-- برای حقیقی -->
+                        <partial name="PartialViews/TruePerson" model="Model.MainPerson" />
+                    </div>
+
+                    <div id="legalPart">
+                        <!-- برای حقوقی -->
+                        <partial name="PartialViews/LegalPerson" model="Model.MainPerson" />
+                    </div>
+                    <div id="subPart">
+                        <!-- برای اتباع -->
+                        <partial name="PartialViews/SubPerson" model="Model.MainPerson" />
+                    </div>
+
+
+
+
 
                 </div>
 
@@ -114,6 +125,46 @@
 @section Scripts {
     <!-- JavaScript -->
     <script src="https://cdn.jsdelivr.net/npm/smartwizard@6/dist/js/jquery.smartWizard.min.js" type="text/javascript"></script>
+
+
+    <!-- partial country selector -->
+    <script language="javascript">
+        $(document).ready(function () {
+            $("select.country_select").change(function () {
+
+                var selectCountry = $(this).children("option:selected").val();
+
+                console.log(selectCountry)
+
+            });
+        });
+
+
+
+
+
+        $(document).ready(function () {
+            $("select.country_select").change(function () {
+
+                $.ajax({
+                    type: "GET",
+                    url: "https://localhost:7176/api/CityApi/" + $(this).children("option:selected").val(),
+                    dataType: "json",
+                    success: function (result, status, xhr) {
+                        console.log(result)
+
+                    },
+                    error: function (xhr, status, error) {
+                        alert("Result: " + status + " " + error + " " + xhr.status + " " + xhr.statusText)
+                    }
+                });
+            });
+
+
+
+        });
+    </script>
+
 
 
     <script>
@@ -165,20 +216,29 @@
         });
 
 
+
         $(document).ready(function () {
+            $("#truePart").show(1000);
+            $("#legalPart").hide(1000);
+            $("#subPart").hide(1000);
             $("select.person_type").change(function () {
-                const truePersonPage = `<partial name="PartialViews/TruePerson" model="Model.MainPerson" / >`;
-                const legalPersonPage = `<partial name="PartialViews/LegalPerson" model="Model.MainPerson" / >`;
-                const subPersonPage = `<partial name="PartialViews/SubjectPerson" model="Model.MainPerson" / >`;
+
                 var selectedPersonType = $(this).children("option:selected").val();
+                console.log(selectedPersonType)
 
                 if (selectedPersonType === "1") {
-                    $('#myTag').replaceWith(truePersonPage);
+                    $("#truePart").show(1000);
+                    $("#legalPart").hide(1000);
+                    $("#subPart").hide(1000);
                 }
                 else if (selectedPersonType === "2") {
-
+                    $("#legalPart").show(1000);
+                    $("#truePart").hide(1000);
+                    $("#subPart").hide(1000);
                 } else {
-
+                    $("#subPart").show(1000);
+                    $("#truePart").hide(1000);
+                    $("#legalPart").hide(1000);
                 }
 
             });

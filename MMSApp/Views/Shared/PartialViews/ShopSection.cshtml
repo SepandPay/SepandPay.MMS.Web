@@ -77,13 +77,14 @@
     <div class="col-12 col-md-6">
         <div class="form-group">
             <label class="form-label">country</label>
-            <select class="form-control select2-show-search" data-placeholder="Choose one (with searchbox)">
+            <select class="form-control select2-show-search country_select" data-placeholder="Choose one (with searchbox)">
                 @foreach (var country in ViewBag.countries)
                 {
                     <option value="@country.Id">@country.PersianName</option>
                 }
             </select>
         </div>
+
     </div>
 
     <div class="col-12 col-md-6">
@@ -146,3 +147,5 @@
         </div>
     </div>
 </div>
+
+<div id="message"></div>
